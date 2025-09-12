@@ -1,0 +1,5822 @@
+{
+  "fileKey": "58iMjhnEMxJ9ovSNFNjxpZ",
+  "name": "BarIlan-לקוח-30-08-25 (יון)",
+  "lastModified": "2025-09-12T13:43:35Z",
+  "version": "2262901076877750558",
+  "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/191d04c1-8853-4c0c-bfcd-17e63e9cab6f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC7HSFKW4W%2F20250911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250911T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2ae6de6a11233ab9cfd28542fb31367b3dbf1517d07ae43b5a201f7981378a26",
+  "document": {
+    "id": "0:0",
+    "name": "Document",
+    "type": "DOCUMENT",
+    "depth": 0,
+    "children": [
+      {
+        "id": "140:31",
+        "name": "cover",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4001:3",
+            "name": "Cover",
+            "type": "COMPONENT",
+            "depth": 2
+          },
+          {
+            "id": "2002:9",
+            "name": "information-banner-bg 1",
+            "type": "RECTANGLE",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "2036:14495",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "0:1",
+        "name": "מחקר",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4022:234",
+            "name": "Frame 4",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:240",
+            "name": "Frame 5",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:250",
+            "name": "Frame 6",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:262",
+            "name": "Frame 7",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:272",
+            "name": "Frame 8",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:280",
+            "name": "Frame 9",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:288",
+            "name": "Frame 10",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:295",
+            "name": "Frame 11",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:313",
+            "name": "Frame 13",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:323",
+            "name": "Frame 54",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:331",
+            "name": "Frame 12",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:339",
+            "name": "Frame 1261158381",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:346",
+            "name": "Calculating carbon footprint on Klima (iOS)",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:369",
+            "name": "Frame 48",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:371",
+            "name": "Onboarding on Uxcel (Web)",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:392",
+            "name": "Frame 50",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:412",
+            "name": "Frame 1261158378",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:414",
+            "name": "Frame 49",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:705",
+            "name": "Frame 40",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:711",
+            "name": "Frame 41",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:717",
+            "name": "Frame 42",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:723",
+            "name": "Frame 43",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:729",
+            "name": "Frame 44",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:735",
+            "name": "Frame 14",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:741",
+            "name": "Frame 15",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:747",
+            "name": "Frame 16",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:753",
+            "name": "Frame 17",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:759",
+            "name": "Frame 18",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:765",
+            "name": "Frame 19",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:771",
+            "name": "Frame 20",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:777",
+            "name": "Frame 22",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:784",
+            "name": "Frame 23",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:790",
+            "name": "Frame 24",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:796",
+            "name": "Frame 25",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:802",
+            "name": "Frame 26",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:808",
+            "name": "Frame 27",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:814",
+            "name": "Frame 28",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:820",
+            "name": "Frame 29",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:826",
+            "name": "Frame 30",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:832",
+            "name": "Frame 31",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:838",
+            "name": "Frame 32",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:844",
+            "name": "Frame 33",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:850",
+            "name": "Frame 34",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:856",
+            "name": "Frame 35",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:862",
+            "name": "Frame 36",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:868",
+            "name": "Frame 37",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:874",
+            "name": "Frame 38",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:880",
+            "name": "Frame 39",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:886",
+            "name": "Frame 1261158380",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4022:893",
+            "name": "Frame 1261158379",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:468",
+            "name": "Frame 51",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:475",
+            "name": "Frame 1261158383",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:482",
+            "name": "Frame 1261158385",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:497",
+            "name": "concept 1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:512",
+            "name": "concept 2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:534",
+            "name": "concept 2.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:553",
+            "name": "concept 2.2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:576",
+            "name": "concept 2.3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:610",
+            "name": "concept 2.4",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:646",
+            "name": "concept 1.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:663",
+            "name": "concept 1.2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:684",
+            "name": "concept 1.3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:707",
+            "name": "concept 3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:727",
+            "name": "concept 3.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:740",
+            "name": "concept 3.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:758",
+            "name": "concept 3.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:781",
+            "name": "concept 3.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:797",
+            "name": "concept 3.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:815",
+            "name": "concept 3.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:858",
+            "name": "Frame 1261158382",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:865",
+            "name": "Frame 1261158384",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:874",
+            "name": "concept 4",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:899",
+            "name": "concept 5",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:920",
+            "name": "Frame 1261158387",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:928",
+            "name": "Frame 1261158388",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:937",
+            "name": "Frame 1261158389",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:1036",
+            "name": "Frame 1261158390",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:1045",
+            "name": "Frame 1261158391",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:1159",
+            "name": "Frame 1261158392",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:1170",
+            "name": "Frame 1261158393",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:1178",
+            "name": "Frame 1261158394",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4028:1187",
+            "name": "Frame 1261158395",
+            "type": "FRAME",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "2036:14494",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "5476:314",
+        "name": "template for dev",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "5476:19828",
+            "name": "Hebrew",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "5476:19942",
+            "name": "English",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4582:33333",
+        "name": "intro (2)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4582:39612",
+            "name": "1.0 intro",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4582:39625",
+            "name": "1.0 intro- heb",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4582:39638",
+            "name": "1.0 intro",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4582:39651",
+            "name": "Spec",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5596:510472",
+            "name": "intro- Design",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "2033:13526",
+        "name": "הרשמה תואר ראשון (28+)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "5596:467002",
+            "name": "אפיון פונקציונאליות",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "5302:398352",
+            "name": "תואר ראשון  איור",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "5306:435678",
+            "name": "עיצוב מתחת לגיל 18",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "5582:624018",
+            "name": "עיצוב תואר ראשון",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4417:9513",
+        "name": "הרשמה לרפואה (12)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4417:9733",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4417:9734",
+            "name": "6.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:9750",
+            "name": "3.4details By ID",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:11115",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:11124",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:11326",
+            "name": "3.0 details",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:11427",
+            "name": "5.0 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:11437",
+            "name": "4.1 Conacts - no id",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:11657",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4417:13056",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:13064",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:13076",
+            "name": "3.0 details",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:13098",
+            "name": "4.0 contact",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:13113",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:13144",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:13200",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:14279",
+            "name": "3.4details By ID",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:14417",
+            "name": "6.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4417:14566",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4764:16822",
+            "name": "5.1 School-four-year/six-year",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5314:515746",
+            "name": "הרשמה לרפואה",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "5934:902903",
+            "name": "not relevant",
+            "type": "FRAME",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4055:8469",
+        "name": "הרשמה תואר שני (17)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4055:9142",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4055:9144",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:9152",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:9164",
+            "name": "3.0 details",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:9175",
+            "name": "3.4details By ID",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:9186",
+            "name": "4.0 contact",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:9201",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4056:16193",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4578:6340",
+            "name": "2.1 subject to learn 2 subjects",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:9256",
+            "name": "Arrow 1",
+            "type": "VECTOR",
+            "depth": 2
+          },
+          {
+            "id": "4055:9288",
+            "name": "6.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:9304",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:14456",
+            "name": "Spec",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4564:17869",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:602192",
+            "name": "תואר שני",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4055:13654",
+        "name": "הרשמה תואר שלישי (13)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4055:13655",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4055:13656",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4564:3802",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:13664",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:13676",
+            "name": "3.0 details",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:13687",
+            "name": "3.4details By ID",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:13698",
+            "name": "4.0 contact",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:13713",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:13732",
+            "name": "6.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:13748",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4055:14465",
+            "name": "Spec",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4564:5288",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4564:14641",
+            "name": "5.2 School bar ilan",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4564:14990",
+            "name": "5.2 School other",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:628377",
+            "name": "תואר שלישי",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4059:8959",
+        "name": "הרשמה למכינה (11)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4059:9339",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4059:9340",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:9348",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4887:25322",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:9357",
+            "name": "3.0 details",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:9368",
+            "name": "3.4details By ID",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:9379",
+            "name": "4.0 contact",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:9394",
+            "name": "6.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:9410",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:9414",
+            "name": "3.4details By ID",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4636:1816",
+            "name": "6.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4636:2943",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4776:43078",
+            "name": "5.2 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4887:25436",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:733861",
+            "name": "מכינה",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4059:11764",
+        "name": "הרשמה ללימודי תעודה הוראה (11)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4059:11858",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4059:11859",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:11867",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:11876",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:11885",
+            "name": "3.0 details",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:11896",
+            "name": "3.4details By ID",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:11907",
+            "name": "4.0 contact",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:11932",
+            "name": "6.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4059:11948",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4582:28977",
+            "name": "5.0 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4582:28988",
+            "name": "5.1 School add first degree",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4582:28999",
+            "name": "5.2 School add degree",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:758579",
+            "name": "תעודת הוראה",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4062:10997",
+        "name": "בינלאומי (10)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4062:11675",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4062:11676",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11696",
+            "name": "2.0 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11717",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11735",
+            "name": "2.1 subject to learn",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11749",
+            "name": "3.1details By Passport",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11763",
+            "name": "3.2 contact",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11779",
+            "name": "4.0 School",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11829",
+            "name": "5.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4062:11854",
+            "name": "5.0 Payment",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:787664",
+            "name": "בינלאומי",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4062:14494",
+        "name": "משתמש חוזר (0)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4063:14571",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4063:14572",
+            "name": "1.0 intro",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4063:14585",
+            "name": "2.0 user",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4063:14605",
+            "name": "3.0 Cell Code",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4063:14634",
+            "name": "3.0 Cell Code error",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4063:14665",
+            "name": "4.0 State",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4063:14677",
+            "name": "3.0 Mail Code",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4063:14706",
+            "name": "2.1 user Error",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:791684",
+            "name": "כבר יש נתונים -או חוזר",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4063:15066",
+        "name": "הגעה לתהליך מהמחשבון (6)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4064:15121",
+            "name": "2.1 subject to learn up 3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4064:15141",
+            "name": "2.1 subject to learn more than 3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4064:15188",
+            "name": "2.1 subject to learn more than 4",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4064:15236",
+            "name": "2.1 subject to learn more than 5",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4064:15256",
+            "name": "2.1 subject to learn more than 6",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4064:15278",
+            "name": "title",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "4064:15279",
+            "name": "מחשבון",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:792467",
+            "name": "הגעה לתהליך מהמחשבון",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "5476:1046468",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "4341:1090",
+        "name": "מחשבון עיצוב מלא (90)",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4845:60283",
+            "name": "Assets",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "5467:64083",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64096",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64110",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64127",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64136",
+            "name": "מתמטיקה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64154",
+            "name": "אנגלית",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64177",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64202",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64226",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64232",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64238",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64244",
+            "name": "Card/Drop Down/Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:64245",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64284",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64323",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64362",
+            "name": "תוצאות - אנימציה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64399",
+            "name": "תוצאות - אנימציה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64404",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64428",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64445",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64454",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64456",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64458",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64460",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64462",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64464",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64466",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64468",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64477",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64479",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64488",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64502",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64519",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64536",
+            "name": "העלאת קובץ פסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64562",
+            "name": "העלאת קובץ פסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64588",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64608",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64620",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64641",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64663",
+            "name": "Rectangle 81",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "5467:64664",
+            "name": "Rectangle 82",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "5467:64665",
+            "name": "Rectangle 83",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "5467:64666",
+            "name": "image 6",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "5467:64667",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64669",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64671",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64697",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64723",
+            "name": "תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64742",
+            "name": "השארת ליד",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64765",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64773",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64775",
+            "name": "חישוב בגרויות 1.0",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64804",
+            "name": "הודעת מערכת - חישוב ממוצע בגרויות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64830",
+            "name": "חישוב בגרויות 1.2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64855",
+            "name": "חישוב בגרויות 1.3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64881",
+            "name": "חישוב בגרויות 1.4 - הוספת מקצוע",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64910",
+            "name": "חישוב בגרויות 1.4 - דרופ דאון",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64939",
+            "name": "חישוב בגרויות 1.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64968",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64970",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64972",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64974",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64976",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64978",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64980",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64982",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64984",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64986",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:64988",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65001",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65017",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65033",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65043",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65067",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65107",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65147",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65187",
+            "name": "תוצאות - אנימציה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65225",
+            "name": "תוצאות - אנימציה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65231",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65236",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65242",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65247",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65252",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65258",
+            "name": "השארת ליד",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65276",
+            "name": "7.0 End",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65284",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65323",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65362",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65401",
+            "name": "תוצאות - אנימציה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65438",
+            "name": "תוצאות - אנימציה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65443",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65455",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65465",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65488",
+            "name": "סיום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65496",
+            "name": "חישוב תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65530",
+            "name": "השארת ליד",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65547",
+            "name": "תוצאות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65565",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65622",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65632",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65638",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65642",
+            "name": "Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:65643",
+            "name": "Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:65644",
+            "name": "הודעת מערכת - חישוב ממוצע בגרויות mobile",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65667",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65673",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65678",
+            "name": "מצב קצה - מעל 2 מקצועות התעניינות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65707",
+            "name": " מצב קצה - מעל 2 מקצועות התעניינות - פתוח",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65745",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65763",
+            "name": "סיכויי קבלה לכלל התחחומים",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65793",
+            "name": "סיכויי קבלה לכלל התחחומים",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65823",
+            "name": "סיכויי קבלה לכלל התחחומים - שם ארוך",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65853",
+            "name": "שמות ארוכים",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65869",
+            "name": "שמות ארוכים",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65884",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65891",
+            "name": "Card/Drop Down/Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:65892",
+            "name": "mobile חישוב בגרויות 1.0",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65915",
+            "name": "Tab",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:65916",
+            "name": "Tab",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:65917",
+            "name": "Tab",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:65918",
+            "name": "Tab",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:65919",
+            "name": "mobile חישוב בגרויות 1.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65942",
+            "name": "mobile חישוב בגרויות 1.2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65966",
+            "name": "mobile חישוב בגרויות 1.3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:65991",
+            "name": "mobile חישוב בגרויות 1.3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66016",
+            "name": "שתי שמות ארוכים - פיצול",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66036",
+            "name": "Tips",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66057",
+            "name": "Tips - מעט",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66078",
+            "name": "Tips - open",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66099",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66118",
+            "name": "כולל יחידות בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66143",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66178",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66220",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66270",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66301",
+            "name": "Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:66302",
+            "name": "Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:66303",
+            "name": "Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5467:66304",
+            "name": "העלאת מסמך",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66329",
+            "name": "שגיאה כללית - העלאת מסמך",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66354",
+            "name": "שגיאה בהעלאת סוג המסמך",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66379",
+            "name": "1920w default",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:66808",
+            "name": "390w default",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67064",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67083",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67102",
+            "name": "כולל יחידות בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67127",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67162",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67204",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67254",
+            "name": "V2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67275",
+            "name": "V2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67296",
+            "name": "ציונים נוספים ופסיכומטרי",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67327",
+            "name": "V2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67347",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5467:67392",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "4062:14493",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "2034:2321",
+        "name": "Design System",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "2034:2488",
+            "name": "Logo",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:14558",
+            "name": "Color",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2034:2771",
+            "name": "Images",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:906157",
+            "name": "Rectangle 16935",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "5476:906158",
+            "name": "Frame 1261159157",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:930370",
+            "name": "Fill 10 1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:930371",
+            "name": "Group 4 1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:930372",
+            "name": "tooltip",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:930381",
+            "name": "Tooltip",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:930398",
+            "name": "Frame 1261159196",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:930406",
+            "name": "Frame 1261159197",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:930410",
+            "name": "Layer_1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5476:933703",
+            "name": "Group 21667",
+            "type": "GROUP",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "6345:971847",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "4064:17162",
+        "name": "מצבי הטופס + מסך יציאה- old",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "5596:601877",
+            "name": "Form",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5325:792492",
+            "name": "Logout",
+            "type": "FRAME",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "5118:38678",
+        "name": "שאלות פתוחות במחשבון",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "5118:38679",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5118:38945",
+            "name": "לאחר תנועה",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5118:39425",
+            "name": "היום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5118:40279",
+            "name": "ארוך",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5118:40932",
+            "name": "ארוך",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5118:40669",
+            "name": "הפתרון המוצע",
+            "type": "FRAME",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "2036:14492",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "4787:11325",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "4953:54784",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "2034:2315",
+        "name": "Brand",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "2034:2317",
+            "name": "image 1",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2034:2319",
+            "name": "https://www.biu.ac.il/about-biu/about/visual-identity",
+            "type": "TEXT",
+            "depth": 2
+          },
+          {
+            "id": "2034:2320",
+            "name": "צבעי המותג - טבלה 1",
+            "type": "RECTANGLE",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "140:32",
+        "name": "---",
+        "type": "CANVAS",
+        "depth": 1
+      },
+      {
+        "id": "4953:42283",
+        "name": "old",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4953:42284",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:42294",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:42307",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:42335",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:42364",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:42396",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:42430",
+            "name": "title",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:42432",
+            "name": "ציוני בגרות",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:44820",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:44900",
+            "name": "משחק",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:44986",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:44998",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "4953:45010",
+            "name": "בחירת תחום",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:48947",
+            "name": "Drop Down - Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5181:48948",
+            "name": "Drop Down - Pop Up",
+            "type": "INSTANCE",
+            "depth": 2
+          },
+          {
+            "id": "5181:48949",
+            "name": "חישוב בגרויותv3.0",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:48976",
+            "name": "חישוב בגרויותv3.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:49003",
+            "name": "חישוב בגרויוv3.2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:49033",
+            "name": "חישוב בגרויוv3.3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:49066",
+            "name": "חישוב בגרויותv2.0",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:49087",
+            "name": "חישוב בגרויות v2.1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:49108",
+            "name": "חישוב בגרויות v2.2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:49129",
+            "name": "חישוב בגרויות v2.3",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "5181:49153",
+            "name": "חישוב בגרויות v2.4",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "6335:701994",
+            "name": "mobile",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "2036:6765",
+        "name": "עמוד הבית",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "2036:6766",
+            "name": "intro",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6780",
+            "name": "1. challenge",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6793",
+            "name": "2. Reffernce",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6804",
+            "name": "2.2 Reffernce",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6817",
+            "name": "2.2 Reffernce",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6830",
+            "name": "2.2 Reffernce",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6843",
+            "name": "3 Concept",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6857",
+            "name": "end",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6864",
+            "name": "תפריט רמה 2",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6899",
+            "name": "תפריט",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6929",
+            "name": "תפריט רמה 1",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:6964",
+            "name": "עמוד הבית",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:7045",
+            "name": "image 59",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:7046",
+            "name": "image 60",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:7047",
+            "name": "image 61",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:7048",
+            "name": "barilan2",
+            "type": "TEXT",
+            "depth": 2
+          },
+          {
+            "id": "2036:7049",
+            "name": "בבית ספר להייטק וסייבר ",
+            "type": "TEXT",
+            "depth": 2
+          },
+          {
+            "id": "2036:11286",
+            "name": "קומפוננטות",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11297",
+            "name": "גלריה",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11305",
+            "name": "opening 2",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:11306",
+            "name": "man 1",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:11307",
+            "name": "opening 1",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:11308",
+            "name": "השכלה",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11358",
+            "name": "תרבות ואמנות",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11361",
+            "name": "טיולים",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11363",
+            "name": "סושיאל",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11365",
+            "name": "בילוי ופנאי",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11370",
+            "name": "Frame 5",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "2036:11377",
+            "name": "תהליך",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "2036:11540",
+            "name": "b50144_b4c69895cd4747ce9e2b068cad2b06e8~mv2",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:11541",
+            "name": "Oded_Ben_Yehuda_TAU_08",
+            "type": "RECTANGLE",
+            "depth": 2
+          },
+          {
+            "id": "2036:11542",
+            "name": "UI",
+            "type": "SECTION",
+            "depth": 2
+          },
+          {
+            "id": "203:4178",
+            "name": "header",
+            "type": "COMPONENT",
+            "depth": 2
+          },
+          {
+            "id": "2036:12009",
+            "name": "1. challenge",
+            "type": "FRAME",
+            "depth": 2
+          },
+          {
+            "id": "3:199",
+            "name": "תמונה6-1 1",
+            "type": "COMPONENT",
+            "depth": 2
+          }
+        ]
+      },
+      {
+        "id": "2033:11080",
+        "name": "מחשבון קונספטים 1 ו- 2",
+        "type": "CANVAS",
+        "depth": 1,
+        "children": [
+          {
+            "id": "4084:193",
+            "name": "רעיונות",
+            "type": "SECTION",
+            "depth": 2
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": "140:31",
+      "name": "cover",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4001:3",
+          "name": "Cover",
+          "type": "COMPONENT",
+          "depth": 1
+        },
+        {
+          "id": "2002:9",
+          "name": "information-banner-bg 1",
+          "type": "RECTANGLE",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 0
+    },
+    {
+      "id": "2036:14495",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 1
+    },
+    {
+      "id": "0:1",
+      "name": "מחקר",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4022:234",
+          "name": "Frame 4",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:240",
+          "name": "Frame 5",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:250",
+          "name": "Frame 6",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:262",
+          "name": "Frame 7",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:272",
+          "name": "Frame 8",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:280",
+          "name": "Frame 9",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:288",
+          "name": "Frame 10",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:295",
+          "name": "Frame 11",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:313",
+          "name": "Frame 13",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:323",
+          "name": "Frame 54",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:331",
+          "name": "Frame 12",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:339",
+          "name": "Frame 1261158381",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:346",
+          "name": "Calculating carbon footprint on Klima (iOS)",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:369",
+          "name": "Frame 48",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:371",
+          "name": "Onboarding on Uxcel (Web)",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:392",
+          "name": "Frame 50",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:412",
+          "name": "Frame 1261158378",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:414",
+          "name": "Frame 49",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:705",
+          "name": "Frame 40",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:711",
+          "name": "Frame 41",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:717",
+          "name": "Frame 42",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:723",
+          "name": "Frame 43",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:729",
+          "name": "Frame 44",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:735",
+          "name": "Frame 14",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:741",
+          "name": "Frame 15",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:747",
+          "name": "Frame 16",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:753",
+          "name": "Frame 17",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:759",
+          "name": "Frame 18",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:765",
+          "name": "Frame 19",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:771",
+          "name": "Frame 20",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:777",
+          "name": "Frame 22",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:784",
+          "name": "Frame 23",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:790",
+          "name": "Frame 24",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:796",
+          "name": "Frame 25",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:802",
+          "name": "Frame 26",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:808",
+          "name": "Frame 27",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:814",
+          "name": "Frame 28",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:820",
+          "name": "Frame 29",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:826",
+          "name": "Frame 30",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:832",
+          "name": "Frame 31",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:838",
+          "name": "Frame 32",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:844",
+          "name": "Frame 33",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:850",
+          "name": "Frame 34",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:856",
+          "name": "Frame 35",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:862",
+          "name": "Frame 36",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:868",
+          "name": "Frame 37",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:874",
+          "name": "Frame 38",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:880",
+          "name": "Frame 39",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:886",
+          "name": "Frame 1261158380",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4022:893",
+          "name": "Frame 1261158379",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:468",
+          "name": "Frame 51",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:475",
+          "name": "Frame 1261158383",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:482",
+          "name": "Frame 1261158385",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:497",
+          "name": "concept 1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:512",
+          "name": "concept 2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:534",
+          "name": "concept 2.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:553",
+          "name": "concept 2.2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:576",
+          "name": "concept 2.3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:610",
+          "name": "concept 2.4",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:646",
+          "name": "concept 1.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:663",
+          "name": "concept 1.2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:684",
+          "name": "concept 1.3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:707",
+          "name": "concept 3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:727",
+          "name": "concept 3.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:740",
+          "name": "concept 3.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:758",
+          "name": "concept 3.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:781",
+          "name": "concept 3.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:797",
+          "name": "concept 3.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:815",
+          "name": "concept 3.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:858",
+          "name": "Frame 1261158382",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:865",
+          "name": "Frame 1261158384",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:874",
+          "name": "concept 4",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:899",
+          "name": "concept 5",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:920",
+          "name": "Frame 1261158387",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:928",
+          "name": "Frame 1261158388",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:937",
+          "name": "Frame 1261158389",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:1036",
+          "name": "Frame 1261158390",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:1045",
+          "name": "Frame 1261158391",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:1159",
+          "name": "Frame 1261158392",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:1170",
+          "name": "Frame 1261158393",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:1178",
+          "name": "Frame 1261158394",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4028:1187",
+          "name": "Frame 1261158395",
+          "type": "FRAME",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 2
+    },
+    {
+      "id": "2036:14494",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 3
+    },
+    {
+      "id": "5476:314",
+      "name": "template for dev",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "5476:19828",
+          "name": "Hebrew",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "5476:19942",
+          "name": "English",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 4
+    },
+    {
+      "id": "4582:33333",
+      "name": "intro (2)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4582:39612",
+          "name": "1.0 intro",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4582:39625",
+          "name": "1.0 intro- heb",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4582:39638",
+          "name": "1.0 intro",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4582:39651",
+          "name": "Spec",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5596:510472",
+          "name": "intro- Design",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 5
+    },
+    {
+      "id": "2033:13526",
+      "name": "הרשמה תואר ראשון (28+)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "5596:467002",
+          "name": "אפיון פונקציונאליות",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "5302:398352",
+          "name": "תואר ראשון  איור",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "5306:435678",
+          "name": "עיצוב מתחת לגיל 18",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "5582:624018",
+          "name": "עיצוב תואר ראשון",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 6
+    },
+    {
+      "id": "4417:9513",
+      "name": "הרשמה לרפואה (12)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4417:9733",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4417:9734",
+          "name": "6.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:9750",
+          "name": "3.4details By ID",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:11115",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:11124",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:11326",
+          "name": "3.0 details",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:11427",
+          "name": "5.0 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:11437",
+          "name": "4.1 Conacts - no id",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:11657",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4417:13056",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:13064",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:13076",
+          "name": "3.0 details",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:13098",
+          "name": "4.0 contact",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:13113",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:13144",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:13200",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:14279",
+          "name": "3.4details By ID",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:14417",
+          "name": "6.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4417:14566",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4764:16822",
+          "name": "5.1 School-four-year/six-year",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5314:515746",
+          "name": "הרשמה לרפואה",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "5934:902903",
+          "name": "not relevant",
+          "type": "FRAME",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 7
+    },
+    {
+      "id": "4055:8469",
+      "name": "הרשמה תואר שני (17)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4055:9142",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4055:9144",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:9152",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:9164",
+          "name": "3.0 details",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:9175",
+          "name": "3.4details By ID",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:9186",
+          "name": "4.0 contact",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:9201",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4056:16193",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4578:6340",
+          "name": "2.1 subject to learn 2 subjects",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:9256",
+          "name": "Arrow 1",
+          "type": "VECTOR",
+          "depth": 1
+        },
+        {
+          "id": "4055:9288",
+          "name": "6.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:9304",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:14456",
+          "name": "Spec",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4564:17869",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:602192",
+          "name": "תואר שני",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 8
+    },
+    {
+      "id": "4055:13654",
+      "name": "הרשמה תואר שלישי (13)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4055:13655",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4055:13656",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4564:3802",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:13664",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:13676",
+          "name": "3.0 details",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:13687",
+          "name": "3.4details By ID",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:13698",
+          "name": "4.0 contact",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:13713",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:13732",
+          "name": "6.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:13748",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4055:14465",
+          "name": "Spec",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4564:5288",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4564:14641",
+          "name": "5.2 School bar ilan",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4564:14990",
+          "name": "5.2 School other",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:628377",
+          "name": "תואר שלישי",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 9
+    },
+    {
+      "id": "4059:8959",
+      "name": "הרשמה למכינה (11)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4059:9339",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4059:9340",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:9348",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4887:25322",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:9357",
+          "name": "3.0 details",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:9368",
+          "name": "3.4details By ID",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:9379",
+          "name": "4.0 contact",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:9394",
+          "name": "6.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:9410",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:9414",
+          "name": "3.4details By ID",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4636:1816",
+          "name": "6.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4636:2943",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4776:43078",
+          "name": "5.2 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4887:25436",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:733861",
+          "name": "מכינה",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 10
+    },
+    {
+      "id": "4059:11764",
+      "name": "הרשמה ללימודי תעודה הוראה (11)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4059:11858",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4059:11859",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:11867",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:11876",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:11885",
+          "name": "3.0 details",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:11896",
+          "name": "3.4details By ID",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:11907",
+          "name": "4.0 contact",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:11932",
+          "name": "6.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4059:11948",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4582:28977",
+          "name": "5.0 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4582:28988",
+          "name": "5.1 School add first degree",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4582:28999",
+          "name": "5.2 School add degree",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:758579",
+          "name": "תעודת הוראה",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 11
+    },
+    {
+      "id": "4062:10997",
+      "name": "בינלאומי (10)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4062:11675",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4062:11676",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11696",
+          "name": "2.0 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11717",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11735",
+          "name": "2.1 subject to learn",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11749",
+          "name": "3.1details By Passport",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11763",
+          "name": "3.2 contact",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11779",
+          "name": "4.0 School",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11829",
+          "name": "5.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4062:11854",
+          "name": "5.0 Payment",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:787664",
+          "name": "בינלאומי",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 12
+    },
+    {
+      "id": "4062:14494",
+      "name": "משתמש חוזר (0)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4063:14571",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4063:14572",
+          "name": "1.0 intro",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4063:14585",
+          "name": "2.0 user",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4063:14605",
+          "name": "3.0 Cell Code",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4063:14634",
+          "name": "3.0 Cell Code error",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4063:14665",
+          "name": "4.0 State",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4063:14677",
+          "name": "3.0 Mail Code",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4063:14706",
+          "name": "2.1 user Error",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:791684",
+          "name": "כבר יש נתונים -או חוזר",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 13
+    },
+    {
+      "id": "4063:15066",
+      "name": "הגעה לתהליך מהמחשבון (6)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4064:15121",
+          "name": "2.1 subject to learn up 3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4064:15141",
+          "name": "2.1 subject to learn more than 3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4064:15188",
+          "name": "2.1 subject to learn more than 4",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4064:15236",
+          "name": "2.1 subject to learn more than 5",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4064:15256",
+          "name": "2.1 subject to learn more than 6",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4064:15278",
+          "name": "title",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "4064:15279",
+          "name": "מחשבון",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:792467",
+          "name": "הגעה לתהליך מהמחשבון",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 14
+    },
+    {
+      "id": "5476:1046468",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 15
+    },
+    {
+      "id": "4341:1090",
+      "name": "מחשבון עיצוב מלא (90)",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4845:60283",
+          "name": "Assets",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "5467:64083",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64096",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64110",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64127",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64136",
+          "name": "מתמטיקה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64154",
+          "name": "אנגלית",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64177",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64202",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64226",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64232",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64238",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64244",
+          "name": "Card/Drop Down/Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:64245",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64284",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64323",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64362",
+          "name": "תוצאות - אנימציה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64399",
+          "name": "תוצאות - אנימציה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64404",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64428",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64445",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64454",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64456",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64458",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64460",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64462",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64464",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64466",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64468",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64477",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64479",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64488",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64502",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64519",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64536",
+          "name": "העלאת קובץ פסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64562",
+          "name": "העלאת קובץ פסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64588",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64608",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64620",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64641",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64663",
+          "name": "Rectangle 81",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "5467:64664",
+          "name": "Rectangle 82",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "5467:64665",
+          "name": "Rectangle 83",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "5467:64666",
+          "name": "image 6",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "5467:64667",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64669",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64671",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64697",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64723",
+          "name": "תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64742",
+          "name": "השארת ליד",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64765",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64773",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64775",
+          "name": "חישוב בגרויות 1.0",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64804",
+          "name": "הודעת מערכת - חישוב ממוצע בגרויות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64830",
+          "name": "חישוב בגרויות 1.2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64855",
+          "name": "חישוב בגרויות 1.3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64881",
+          "name": "חישוב בגרויות 1.4 - הוספת מקצוע",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64910",
+          "name": "חישוב בגרויות 1.4 - דרופ דאון",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64939",
+          "name": "חישוב בגרויות 1.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64968",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64970",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64972",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64974",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64976",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64978",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64980",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64982",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64984",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64986",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:64988",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65001",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65017",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65033",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65043",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65067",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65107",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65147",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65187",
+          "name": "תוצאות - אנימציה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65225",
+          "name": "תוצאות - אנימציה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65231",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65236",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65242",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65247",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65252",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65258",
+          "name": "השארת ליד",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65276",
+          "name": "7.0 End",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65284",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65323",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65362",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65401",
+          "name": "תוצאות - אנימציה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65438",
+          "name": "תוצאות - אנימציה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65443",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65455",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65465",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65488",
+          "name": "סיום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65496",
+          "name": "חישוב תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65530",
+          "name": "השארת ליד",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65547",
+          "name": "תוצאות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65565",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65622",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65632",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65638",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65642",
+          "name": "Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:65643",
+          "name": "Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:65644",
+          "name": "הודעת מערכת - חישוב ממוצע בגרויות mobile",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65667",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65673",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65678",
+          "name": "מצב קצה - מעל 2 מקצועות התעניינות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65707",
+          "name": " מצב קצה - מעל 2 מקצועות התעניינות - פתוח",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65745",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65763",
+          "name": "סיכויי קבלה לכלל התחחומים",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65793",
+          "name": "סיכויי קבלה לכלל התחחומים",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65823",
+          "name": "סיכויי קבלה לכלל התחחומים - שם ארוך",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65853",
+          "name": "שמות ארוכים",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65869",
+          "name": "שמות ארוכים",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65884",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65891",
+          "name": "Card/Drop Down/Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:65892",
+          "name": "mobile חישוב בגרויות 1.0",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65915",
+          "name": "Tab",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:65916",
+          "name": "Tab",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:65917",
+          "name": "Tab",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:65918",
+          "name": "Tab",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:65919",
+          "name": "mobile חישוב בגרויות 1.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65942",
+          "name": "mobile חישוב בגרויות 1.2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65966",
+          "name": "mobile חישוב בגרויות 1.3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:65991",
+          "name": "mobile חישוב בגרויות 1.3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66016",
+          "name": "שתי שמות ארוכים - פיצול",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66036",
+          "name": "Tips",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66057",
+          "name": "Tips - מעט",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66078",
+          "name": "Tips - open",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66099",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66118",
+          "name": "כולל יחידות בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66143",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66178",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66220",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66270",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66301",
+          "name": "Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:66302",
+          "name": "Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:66303",
+          "name": "Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5467:66304",
+          "name": "העלאת מסמך",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66329",
+          "name": "שגיאה כללית - העלאת מסמך",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66354",
+          "name": "שגיאה בהעלאת סוג המסמך",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66379",
+          "name": "1920w default",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:66808",
+          "name": "390w default",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67064",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67083",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67102",
+          "name": "כולל יחידות בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67127",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67162",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67204",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67254",
+          "name": "V2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67275",
+          "name": "V2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67296",
+          "name": "ציונים נוספים ופסיכומטרי",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67327",
+          "name": "V2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67347",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5467:67392",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 16
+    },
+    {
+      "id": "4062:14493",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 17
+    },
+    {
+      "id": "2034:2321",
+      "name": "Design System",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "2034:2488",
+          "name": "Logo",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:14558",
+          "name": "Color",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2034:2771",
+          "name": "Images",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:906157",
+          "name": "Rectangle 16935",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "5476:906158",
+          "name": "Frame 1261159157",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:930370",
+          "name": "Fill 10 1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:930371",
+          "name": "Group 4 1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:930372",
+          "name": "tooltip",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:930381",
+          "name": "Tooltip",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:930398",
+          "name": "Frame 1261159196",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:930406",
+          "name": "Frame 1261159197",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:930410",
+          "name": "Layer_1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5476:933703",
+          "name": "Group 21667",
+          "type": "GROUP",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 18
+    },
+    {
+      "id": "6345:971847",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 19
+    },
+    {
+      "id": "4064:17162",
+      "name": "מצבי הטופס + מסך יציאה- old",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "5596:601877",
+          "name": "Form",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5325:792492",
+          "name": "Logout",
+          "type": "FRAME",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 20
+    },
+    {
+      "id": "5118:38678",
+      "name": "שאלות פתוחות במחשבון",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "5118:38679",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5118:38945",
+          "name": "לאחר תנועה",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5118:39425",
+          "name": "היום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5118:40279",
+          "name": "ארוך",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5118:40932",
+          "name": "ארוך",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5118:40669",
+          "name": "הפתרון המוצע",
+          "type": "FRAME",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 21
+    },
+    {
+      "id": "2036:14492",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 22
+    },
+    {
+      "id": "4787:11325",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 23
+    },
+    {
+      "id": "4953:54784",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 24
+    },
+    {
+      "id": "2034:2315",
+      "name": "Brand",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "2034:2317",
+          "name": "image 1",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2034:2319",
+          "name": "https://www.biu.ac.il/about-biu/about/visual-identity",
+          "type": "TEXT",
+          "depth": 1
+        },
+        {
+          "id": "2034:2320",
+          "name": "צבעי המותג - טבלה 1",
+          "type": "RECTANGLE",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 25
+    },
+    {
+      "id": "140:32",
+      "name": "---",
+      "type": "CANVAS",
+      "depth": 0,
+      "pageIndex": 26
+    },
+    {
+      "id": "4953:42283",
+      "name": "old",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4953:42284",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:42294",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:42307",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:42335",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:42364",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:42396",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:42430",
+          "name": "title",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:42432",
+          "name": "ציוני בגרות",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:44820",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:44900",
+          "name": "משחק",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:44986",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:44998",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "4953:45010",
+          "name": "בחירת תחום",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:48947",
+          "name": "Drop Down - Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5181:48948",
+          "name": "Drop Down - Pop Up",
+          "type": "INSTANCE",
+          "depth": 1
+        },
+        {
+          "id": "5181:48949",
+          "name": "חישוב בגרויותv3.0",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:48976",
+          "name": "חישוב בגרויותv3.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:49003",
+          "name": "חישוב בגרויוv3.2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:49033",
+          "name": "חישוב בגרויוv3.3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:49066",
+          "name": "חישוב בגרויותv2.0",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:49087",
+          "name": "חישוב בגרויות v2.1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:49108",
+          "name": "חישוב בגרויות v2.2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:49129",
+          "name": "חישוב בגרויות v2.3",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "5181:49153",
+          "name": "חישוב בגרויות v2.4",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "6335:701994",
+          "name": "mobile",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 27
+    },
+    {
+      "id": "2036:6765",
+      "name": "עמוד הבית",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "2036:6766",
+          "name": "intro",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6780",
+          "name": "1. challenge",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6793",
+          "name": "2. Reffernce",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6804",
+          "name": "2.2 Reffernce",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6817",
+          "name": "2.2 Reffernce",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6830",
+          "name": "2.2 Reffernce",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6843",
+          "name": "3 Concept",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6857",
+          "name": "end",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6864",
+          "name": "תפריט רמה 2",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6899",
+          "name": "תפריט",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6929",
+          "name": "תפריט רמה 1",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:6964",
+          "name": "עמוד הבית",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:7045",
+          "name": "image 59",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:7046",
+          "name": "image 60",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:7047",
+          "name": "image 61",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:7048",
+          "name": "barilan2",
+          "type": "TEXT",
+          "depth": 1
+        },
+        {
+          "id": "2036:7049",
+          "name": "בבית ספר להייטק וסייבר ",
+          "type": "TEXT",
+          "depth": 1
+        },
+        {
+          "id": "2036:11286",
+          "name": "קומפוננטות",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11297",
+          "name": "גלריה",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11305",
+          "name": "opening 2",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:11306",
+          "name": "man 1",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:11307",
+          "name": "opening 1",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:11308",
+          "name": "השכלה",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11358",
+          "name": "תרבות ואמנות",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11361",
+          "name": "טיולים",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11363",
+          "name": "סושיאל",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11365",
+          "name": "בילוי ופנאי",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11370",
+          "name": "Frame 5",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "2036:11377",
+          "name": "תהליך",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "2036:11540",
+          "name": "b50144_b4c69895cd4747ce9e2b068cad2b06e8~mv2",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:11541",
+          "name": "Oded_Ben_Yehuda_TAU_08",
+          "type": "RECTANGLE",
+          "depth": 1
+        },
+        {
+          "id": "2036:11542",
+          "name": "UI",
+          "type": "SECTION",
+          "depth": 1
+        },
+        {
+          "id": "203:4178",
+          "name": "header",
+          "type": "COMPONENT",
+          "depth": 1
+        },
+        {
+          "id": "2036:12009",
+          "name": "1. challenge",
+          "type": "FRAME",
+          "depth": 1
+        },
+        {
+          "id": "3:199",
+          "name": "תמונה6-1 1",
+          "type": "COMPONENT",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 28
+    },
+    {
+      "id": "2033:11080",
+      "name": "מחשבון קונספטים 1 ו- 2",
+      "type": "CANVAS",
+      "depth": 0,
+      "children": [
+        {
+          "id": "4084:193",
+          "name": "רעיונות",
+          "type": "SECTION",
+          "depth": 1
+        }
+      ],
+      "pageIndex": 29
+    }
+  ],
+  "totalPages": 30,
+  "extractedAt": "2025-09-12T20:02:49.124Z",
+  "depth": 2
+}

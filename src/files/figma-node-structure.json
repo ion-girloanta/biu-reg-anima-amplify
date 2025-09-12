@@ -1,0 +1,168 @@
+{
+  "nodeId": "5584:558165",
+  "nodeName": "2.0 Subject to learn-he",
+  "nodeType": "FRAME",
+  "directChildrenCount": 4,
+  "totalDescendants": 18,
+  "structure": {
+    "id": "5584:558165",
+    "name": "2.0 Subject to learn-he",
+    "type": "FRAME",
+    "depth": 0,
+    "tailwindClasses": "flex flex-col justify-end w-[1920px] h-[1418px] bg-white",
+    "children": [
+      {
+        "id": "5584:558166",
+        "name": "header/Logo only",
+        "type": "INSTANCE",
+        "depth": 1,
+        "tailwindClasses": "absolute left-[25717px] top-[-7523px] flex flex-col gap-2.5 w-[1920px] h-[91px]",
+        "children": [
+          {
+            "id": "I5584:558166;3267:776527",
+            "name": "Frame 1261159237",
+            "type": "FRAME",
+            "depth": 2,
+            "tailwindClasses": "absolute left-[25717px] top-[-7499px] flex flex-col justify-end gap-2.5 w-[1896px] h-[67px]",
+            "children": [
+              {
+                "id": "I5584:558166;3267:776524",
+                "name": "Logo",
+                "type": "INSTANCE",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[27433px] top-[-7499px] w-[180px] h-[67px]"
+              }
+            ],
+            "childrenCount": 1
+          }
+        ],
+        "childrenCount": 1
+      },
+      {
+        "id": "5584:558167",
+        "name": "ActionsMenu",
+        "type": "INSTANCE",
+        "depth": 1,
+        "tailwindClasses": "absolute left-[25717px] top-[-7432px] flex flex-row justify-between items-center gap-[40px] w-[1920px] h-[80px] pt-6 pr-[88px] pb-6 pl-[88px] bg-white shadow-[0px_2px_4px_rgb(0 0 0/0.05999999865889549)]",
+        "children": [
+          {
+            "id": "I5584:558167;2784:88348",
+            "name": "Frame 1261158791",
+            "type": "FRAME",
+            "depth": 2,
+            "tailwindClasses": "absolute left-[25805px] top-[-7404px] flex flex-row items-center gap-8 w-[511px] h-[24px]",
+            "children": [
+              {
+                "id": "I5584:558167;2784:88344",
+                "name": "Buttons/CTA/Link",
+                "type": "INSTANCE",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[25805px] top-[-7404px] flex flex-row items-center gap-2.5 w-[83px] h-[24px]"
+              },
+              {
+                "id": "I5584:558167;2784:88340",
+                "name": "Buttons/CTA/Link",
+                "type": "INSTANCE",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[25920px] top-[-7404px] flex flex-row items-center gap-2.5 w-[153px] h-[24px]"
+              },
+              {
+                "id": "I5584:558167;2784:88333",
+                "name": "Buttons/CTA/Link",
+                "type": "INSTANCE",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[26105px] top-[-7404px] flex flex-row items-center gap-2.5 w-[154px] h-[24px]"
+              },
+              {
+                "id": "I5584:558167;3275:641751",
+                "name": "Buttons/CTA/Link",
+                "type": "INSTANCE",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[26291px] top-[-7404px] flex flex-row items-center gap-2.5 w-[25px] h-[24px]"
+              }
+            ],
+            "childrenCount": 4
+          },
+          {
+            "id": "I5584:558167;2784:88380",
+            "name": "arrow-right",
+            "type": "INSTANCE",
+            "depth": 2,
+            "tailwindClasses": "absolute left-[27517px] top-[-7408px] w-[32px] h-[32px]",
+            "children": [
+              {
+                "id": "I5584:558167;2784:88380;120:3908",
+                "name": "Icon",
+                "type": "VECTOR",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[27522px] top-[-7403px] w-[21px] h-[21px] bg-[rgb(0 40 15)]"
+              }
+            ],
+            "childrenCount": 1
+          }
+        ],
+        "childrenCount": 2
+      },
+      {
+        "id": "5584:558168",
+        "name": "Main",
+        "type": "FRAME",
+        "depth": 1,
+        "tailwindClasses": "absolute left-[26506px] top-[-7352px] flex flex-col items-center justify-center w-[1131px] h-[938px]",
+        "children": [
+          {
+            "id": "5584:558169",
+            "name": "ContentContainer",
+            "type": "FRAME",
+            "depth": 2,
+            "tailwindClasses": "absolute left-[26572px] top-[-7332px] flex flex-col justify-center gap-[48px] w-[1000px] h-[897px]",
+            "children": [
+              {
+                "id": "5584:558170",
+                "name": "ContentTitle",
+                "type": "FRAME",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[26572px] top-[-7244px] flex flex-col items-center justify-center gap-2.5 w-[1000px] h-[162px]"
+              },
+              {
+                "id": "5584:558174",
+                "name": "CTA",
+                "type": "INSTANCE",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[26954px] top-[-7034px] flex flex-row justify-center items-center w-[235px] h-[48px]"
+              },
+              {
+                "id": "5584:558175",
+                "name": "ContentBody",
+                "type": "FRAME",
+                "depth": 3,
+                "tailwindClasses": "absolute left-[26572px] top-[-6938px] flex flex-col justify-end gap-8 w-[1000px] h-[591px]"
+              }
+            ],
+            "childrenCount": 3
+          }
+        ],
+        "childrenCount": 1
+      },
+      {
+        "id": "5584:558187",
+        "name": "placeholder image",
+        "type": "INSTANCE",
+        "depth": 1,
+        "tailwindClasses": "absolute left-[25721px] top-[-7349px] w-[703px] h-[1034px]",
+        "children": [
+          {
+            "id": "I5584:558187;3051:1349525",
+            "name": "Rectangle 16918",
+            "type": "RECTANGLE",
+            "depth": 2,
+            "tailwindClasses": "absolute left-[25721px] top-[-7349px] w-[703px] h-[1034px]"
+          }
+        ],
+        "childrenCount": 1
+      }
+    ],
+    "childrenCount": 4
+  },
+  "extractedAt": "2025-09-12T22:42:43.264Z"
+}
