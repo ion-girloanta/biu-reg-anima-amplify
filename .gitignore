@@ -27,3 +27,10 @@ dist-ssr
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+# Claude Code
+.claude/
+.mcp.json
+
+# Environment files
+.env
