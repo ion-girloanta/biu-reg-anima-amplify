@@ -3,7 +3,7 @@
   "nodeName": "2.0 Subject to learn-he",
   "nodeType": "FRAME",
   "directChildrenCount": 4,
-  "totalDescendants": 18,
+  "totalDescendants": 96,
   "structure": {
     "id": "5584:558165",
     "name": "2.0 Subject to learn-he",
@@ -16,21 +16,46 @@
         "name": "header/Logo only",
         "type": "INSTANCE",
         "depth": 1,
-        "tailwindClasses": "absolute left-[25717px] top-[-7523px] flex flex-col gap-2.5 w-[1920px] h-[91px]",
+        "componentId": "5473:426129",
+        "tailwindClasses": "flex flex-col gap-2.5 w-[1920px] h-[91px]",
         "children": [
           {
             "id": "I5584:558166;3267:776527",
             "name": "Frame 1261159237",
             "type": "FRAME",
             "depth": 2,
-            "tailwindClasses": "absolute left-[25717px] top-[-7499px] flex flex-col justify-end gap-2.5 w-[1896px] h-[67px]",
+            "tailwindClasses": "flex flex-col justify-end gap-2.5 w-[1896px] h-[67px]",
             "children": [
               {
                 "id": "I5584:558166;3267:776524",
                 "name": "Logo",
                 "type": "INSTANCE",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[27433px] top-[-7499px] w-[180px] h-[67px]"
+                "componentId": "5473:426119",
+                "componentProperties": {
+                  "Property 1": {
+                    "value": "main logo",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                  }
+                },
+                "tailwindClasses": "w-[180px] h-[67px]",
+                "children": [
+                  {
+                    "id": "I5584:558166;3267:776524;2034:2731",
+                    "name": "main logo",
+                    "type": "RECTANGLE",
+                    "depth": 4,
+                    "imageContent": {
+                      "type": "IMAGE_FILL",
+                      "imageRef": "bea68e7860ce41a5abbd227a5950dcca38e495cb",
+                      "scaleMode": "FILL"
+                    },
+                    "tailwindClasses": "w-[180px] h-[67px]",
+                    "imageUrl": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/46fec6c7-c4fa-4fa8-98c4-93d9ba3ac6c7"
+                  }
+                ],
+                "childrenCount": 1
               }
             ],
             "childrenCount": 1
@@ -43,42 +68,319 @@
         "name": "ActionsMenu",
         "type": "INSTANCE",
         "depth": 1,
-        "tailwindClasses": "absolute left-[25717px] top-[-7432px] flex flex-row justify-between items-center gap-[40px] w-[1920px] h-[80px] pt-6 pr-[88px] pb-6 pl-[88px] bg-white shadow-[0px_2px_4px_rgb(0 0 0/0.05999999865889549)]",
+        "componentId": "5476:1198361",
+        "componentProperties": {
+          "Property 1": {
+            "value": "Default",
+            "type": "VARIANT",
+            "boundVariables": {}
+          }
+        },
+        "tailwindClasses": "flex flex-row justify-between items-center gap-[40px] w-[1920px] h-[80px] pt-6 pr-[88px] pb-6 pl-[88px] bg-white shadow-[0px_2px_4px_rgb(0 0 0/0.05999999865889549)]",
         "children": [
           {
             "id": "I5584:558167;2784:88348",
             "name": "Frame 1261158791",
             "type": "FRAME",
             "depth": 2,
-            "tailwindClasses": "absolute left-[25805px] top-[-7404px] flex flex-row items-center gap-8 w-[511px] h-[24px]",
+            "tailwindClasses": "flex flex-row items-center gap-8 w-[511px] h-[24px]",
             "children": [
               {
                 "id": "I5584:558167;2784:88344",
                 "name": "Buttons/CTA/Link",
                 "type": "INSTANCE",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[25805px] top-[-7404px] flex flex-row items-center gap-2.5 w-[83px] h-[24px]"
+                "componentId": "5252:183522",
+                "componentProperties": {
+                  "DropDown#3083:1": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                  },
+                  "Property 1": {
+                    "value": "Default",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                  }
+                },
+                "tailwindClasses": "flex flex-row items-center gap-2.5 w-[83px] h-[24px]",
+                "children": [
+                  {
+                    "id": "I5584:558167;2784:88344;2655:319293",
+                    "name": "השוואה בין תחומים",
+                    "type": "TEXT",
+                    "depth": 4,
+                    "textContent": {
+                      "characters": "יציאה",
+                      "characterCount": 5,
+                      "fontFamily": null,
+                      "fontWeight": null
+                    },
+                    "text": "יציאה",
+                    "textStyle": {
+                      "fontFamily": "Fedra Sans Bar-ilan",
+                      "fontWeight": 500,
+                      "fontSize": 20,
+                      "letterSpacing": 0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "CENTER"
+                    },
+                    "tailwindClasses": "w-[49px] h-[24px] bg-[rgb(1 105 55)] text-[rgb(1 105 55)]"
+                  },
+                  {
+                    "id": "I5584:558167;2784:88344;2655:319294",
+                    "name": "Icons",
+                    "type": "INSTANCE",
+                    "depth": 4,
+                    "componentId": "5028:259220",
+                    "componentProperties": {
+                      "Name": {
+                        "value": "log-out",
+                        "type": "VARIANT",
+                        "boundVariables": {}
+                      }
+                    },
+                    "tailwindClasses": "w-[24px] h-[24px]",
+                    "children": [
+                      {
+                        "id": "I5584:558167;2784:88344;2655:319294;2784:88250",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "depth": 5,
+                        "vectorContent": {},
+                        "tailwindClasses": "w-[5px] h-[10px] border-2 border-[rgb(1 105 55)]"
+                      },
+                      {
+                        "id": "I5584:558167;2784:88344;2655:319294;2784:88251",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "depth": 5,
+                        "vectorContent": {},
+                        "tailwindClasses": "w-[12px] h-[0px] border-2 border-[rgb(1 105 55)]"
+                      },
+                      {
+                        "id": "I5584:558167;2784:88344;2655:319294;2784:88252",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "depth": 5,
+                        "vectorContent": {},
+                        "tailwindClasses": "w-[6px] h-[18px] border-2 border-[rgb(1 105 55)]"
+                      }
+                    ],
+                    "childrenCount": 3
+                  }
+                ],
+                "childrenCount": 2
               },
               {
                 "id": "I5584:558167;2784:88340",
                 "name": "Buttons/CTA/Link",
                 "type": "INSTANCE",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[25920px] top-[-7404px] flex flex-row items-center gap-2.5 w-[153px] h-[24px]"
+                "componentId": "5252:183522",
+                "componentProperties": {
+                  "DropDown#3083:1": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                  },
+                  "Property 1": {
+                    "value": "Default",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                  }
+                },
+                "tailwindClasses": "flex flex-row items-center gap-2.5 w-[153px] h-[24px]",
+                "children": [
+                  {
+                    "id": "I5584:558167;2784:88340;2655:319293",
+                    "name": "השוואה בין תחומים",
+                    "type": "TEXT",
+                    "depth": 4,
+                    "textContent": {
+                      "characters": "התחלה מחדש",
+                      "characterCount": 10,
+                      "fontFamily": null,
+                      "fontWeight": null
+                    },
+                    "text": "התחלה מחדש",
+                    "textStyle": {
+                      "fontFamily": "Fedra Sans Bar-ilan",
+                      "fontWeight": 500,
+                      "fontSize": 20,
+                      "letterSpacing": 0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "CENTER"
+                    },
+                    "tailwindClasses": "w-[119px] h-[24px] bg-[rgb(1 105 55)] text-[rgb(1 105 55)]"
+                  },
+                  {
+                    "id": "I5584:558167;2784:88340;2655:319294",
+                    "name": "Icons",
+                    "type": "INSTANCE",
+                    "depth": 4,
+                    "componentId": "5028:258767",
+                    "componentProperties": {
+                      "Name": {
+                        "value": "repeat",
+                        "type": "VARIANT",
+                        "boundVariables": {}
+                      }
+                    },
+                    "tailwindClasses": "w-[24px] h-[24px]",
+                    "children": [
+                      {
+                        "id": "I5584:558167;2784:88340;2655:319294;2784:87797",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "depth": 5,
+                        "vectorContent": {},
+                        "tailwindClasses": "w-[18px] h-[22px] border-2 border-[rgb(1 105 55)]"
+                      }
+                    ],
+                    "childrenCount": 1
+                  }
+                ],
+                "childrenCount": 2
               },
               {
                 "id": "I5584:558167;2784:88333",
                 "name": "Buttons/CTA/Link",
                 "type": "INSTANCE",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[26105px] top-[-7404px] flex flex-row items-center gap-2.5 w-[154px] h-[24px]"
+                "componentId": "5252:183522",
+                "componentProperties": {
+                  "DropDown#3083:1": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                  },
+                  "Property 1": {
+                    "value": "Default",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                  }
+                },
+                "tailwindClasses": "flex flex-row items-center gap-2.5 w-[154px] h-[24px]",
+                "children": [
+                  {
+                    "id": "I5584:558167;2784:88333;2655:319293",
+                    "name": "השוואה בין תחומים",
+                    "type": "TEXT",
+                    "depth": 4,
+                    "textContent": {
+                      "characters": "שמור לאחר כך",
+                      "characterCount": 12,
+                      "fontFamily": null,
+                      "fontWeight": null
+                    },
+                    "text": "שמור לאחר כך",
+                    "textStyle": {
+                      "fontFamily": "Fedra Sans Bar-ilan",
+                      "fontWeight": 500,
+                      "fontSize": 20,
+                      "letterSpacing": 0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "CENTER"
+                    },
+                    "tailwindClasses": "w-[120px] h-[24px] bg-[rgb(1 105 55)] text-[rgb(1 105 55)]"
+                  },
+                  {
+                    "id": "I5584:558167;2784:88333;2655:319294",
+                    "name": "Icons",
+                    "type": "INSTANCE",
+                    "depth": 4,
+                    "componentId": "5028:258779",
+                    "componentProperties": {
+                      "Name": {
+                        "value": "save",
+                        "type": "VARIANT",
+                        "boundVariables": {}
+                      }
+                    },
+                    "tailwindClasses": "w-[24px] h-[24px]",
+                    "children": [
+                      {
+                        "id": "I5584:558167;2784:88333;2655:319294;2784:87809",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "depth": 5,
+                        "vectorContent": {},
+                        "tailwindClasses": "w-[18px] h-[18px] border-2 border-[rgb(1 105 55)]"
+                      }
+                    ],
+                    "childrenCount": 1
+                  }
+                ],
+                "childrenCount": 2
               },
               {
                 "id": "I5584:558167;3275:641751",
                 "name": "Buttons/CTA/Link",
                 "type": "INSTANCE",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[26291px] top-[-7404px] flex flex-row items-center gap-2.5 w-[25px] h-[24px]"
+                "componentId": "5252:183522",
+                "componentProperties": {
+                  "DropDown#3083:1": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                  },
+                  "Property 1": {
+                    "value": "Default",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                  }
+                },
+                "tailwindClasses": "flex flex-row items-center gap-2.5 w-[25px] h-[24px]",
+                "children": [
+                  {
+                    "id": "I5584:558167;3275:641751;2655:319293",
+                    "name": "השוואה בין תחומים",
+                    "type": "TEXT",
+                    "depth": 4,
+                    "textContent": {
+                      "characters": "En",
+                      "characterCount": 2,
+                      "fontFamily": null,
+                      "fontWeight": null
+                    },
+                    "text": "En",
+                    "textStyle": {
+                      "fontFamily": "Fedra Sans Bar-ilan",
+                      "fontWeight": 500,
+                      "fontSize": 20,
+                      "letterSpacing": 0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "CENTER"
+                    },
+                    "tailwindClasses": "w-[25px] h-[24px] bg-[rgb(1 105 55)] text-[rgb(1 105 55)]"
+                  },
+                  {
+                    "id": "I5584:558167;3275:641751;2655:319294",
+                    "name": "Icons",
+                    "type": "INSTANCE",
+                    "depth": 4,
+                    "visible": false,
+                    "componentId": "5028:258779",
+                    "componentProperties": {
+                      "Name": {
+                        "value": "save",
+                        "type": "VARIANT",
+                        "boundVariables": {}
+                      }
+                    },
+                    "tailwindClasses": "w-[24px] h-[24px]",
+                    "children": [
+                      {
+                        "id": "I5584:558167;3275:641751;2655:319294;2784:87809",
+                        "name": "Vector",
+                        "type": "VECTOR",
+                        "depth": 5,
+                        "vectorContent": {},
+                        "tailwindClasses": "w-[18px] h-[18px] border-2 border-[rgb(1 105 55)]"
+                      }
+                    ],
+                    "childrenCount": 1
+                  }
+                ],
+                "childrenCount": 2
               }
             ],
             "childrenCount": 4
@@ -88,14 +390,16 @@
             "name": "arrow-right",
             "type": "INSTANCE",
             "depth": 2,
-            "tailwindClasses": "absolute left-[27517px] top-[-7408px] w-[32px] h-[32px]",
+            "componentId": "5476:858",
+            "tailwindClasses": "w-[32px] h-[32px]",
             "children": [
               {
                 "id": "I5584:558167;2784:88380;120:3908",
                 "name": "Icon",
                 "type": "VECTOR",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[27522px] top-[-7403px] w-[21px] h-[21px] bg-[rgb(0 40 15)]"
+                "vectorContent": {},
+                "tailwindClasses": "w-[21px] h-[21px] bg-[rgb(0 40 15)]"
               }
             ],
             "childrenCount": 1
@@ -108,35 +412,960 @@
         "name": "Main",
         "type": "FRAME",
         "depth": 1,
-        "tailwindClasses": "absolute left-[26506px] top-[-7352px] flex flex-col items-center justify-center w-[1131px] h-[938px]",
+        "tailwindClasses": "flex flex-col items-center justify-center w-[1131px] h-[938px]",
         "children": [
           {
             "id": "5584:558169",
             "name": "ContentContainer",
             "type": "FRAME",
             "depth": 2,
-            "tailwindClasses": "absolute left-[26572px] top-[-7332px] flex flex-col justify-center gap-[48px] w-[1000px] h-[897px]",
+            "tailwindClasses": "flex flex-col justify-center gap-[48px] w-[1000px] h-[897px]",
             "children": [
               {
                 "id": "5584:558170",
                 "name": "ContentTitle",
                 "type": "FRAME",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[26572px] top-[-7244px] flex flex-col items-center justify-center gap-2.5 w-[1000px] h-[162px]"
+                "tailwindClasses": "flex flex-col items-center justify-center gap-2.5 w-[1000px] h-[162px]",
+                "children": [
+                  {
+                    "id": "5584:558171",
+                    "name": "title",
+                    "type": "TEXT",
+                    "depth": 4,
+                    "textContent": {
+                      "characters": "הדרך שלך לאוניברסיטה מתחילה כאן",
+                      "characterCount": 31,
+                      "fontFamily": null,
+                      "fontWeight": null
+                    },
+                    "text": "הדרך שלך לאוניברסיטה מתחילה כאן",
+                    "textStyle": {
+                      "fontFamily": "Fedra Sans Bar-ilan",
+                      "fontWeight": 700,
+                      "fontSize": 64,
+                      "letterSpacing": 0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "CENTER"
+                    },
+                    "tailwindClasses": "w-[1000px] h-[80px] bg-black text-black"
+                  },
+                  {
+                    "id": "5584:558172",
+                    "name": "sub",
+                    "type": "FRAME",
+                    "depth": 4,
+                    "tailwindClasses": "flex flex-row justify-center items-center gap-2.5 w-[1000px] h-[72px]",
+                    "children": [
+                      {
+                        "id": "5584:558173",
+                        "name": "ברוכים הבאים להרשמה! לפני שמתחילים, הנה כמה דברים שרצינו לספר לך",
+                        "type": "TEXT",
+                        "depth": 5,
+                        "textContent": {
+                          "characters": "ברוכים הבאים להרשמה!\nלפני שמתחילים, הנה כמה דברים שרצינו לספר לך",
+                          "characterCount": 64,
+                          "fontFamily": null,
+                          "fontWeight": null
+                        },
+                        "text": "ברוכים הבאים להרשמה!\nלפני שמתחילים, הנה כמה דברים שרצינו לספר לך",
+                        "textStyle": {
+                          "fontFamily": "Fedra Sans Bar-ilan",
+                          "fontWeight": 300,
+                          "fontSize": 36,
+                          "letterSpacing": 0,
+                          "textAlignHorizontal": "CENTER",
+                          "textAlignVertical": "CENTER"
+                        },
+                        "tailwindClasses": "w-[1099px] h-[72px] bg-[rgb(0 40 15)] text-[rgb(0 40 15)]"
+                      }
+                    ],
+                    "childrenCount": 1
+                  }
+                ],
+                "childrenCount": 2
               },
               {
                 "id": "5584:558174",
                 "name": "CTA",
                 "type": "INSTANCE",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[26954px] top-[-7034px] flex flex-row justify-center items-center w-[235px] h-[48px]"
+                "componentId": "5109:14377",
+                "componentProperties": {
+                  "Property 1": {
+                    "value": "seconed",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                  }
+                },
+                "tailwindClasses": "flex flex-row justify-center items-center w-[235px] h-[48px]",
+                "children": [
+                  {
+                    "id": "I5584:558174;2170:4390",
+                    "name": "CTA/CONTROL all sizes (dont touch)",
+                    "type": "FRAME",
+                    "depth": 4,
+                    "tailwindClasses": "flex flex-row justify-center items-center gap-2 w-[235px] h-[48px] pt-3 pr-6 pb-3 pl-6 bg-white border border-[rgb(1 105 55)] rounded-lg",
+                    "children": [
+                      {
+                        "id": "I5584:558174;2170:4960",
+                        "name": "16X16 icon (outline)",
+                        "type": "INSTANCE",
+                        "depth": 5,
+                        "componentId": "5109:4989",
+                        "componentProperties": {
+                          "Property 1": {
+                            "value": "arrow-left link",
+                            "type": "VARIANT",
+                            "boundVariables": {}
+                          }
+                        },
+                        "tailwindClasses": "w-[16px] h-[16px]",
+                        "children": [
+                          {
+                            "id": "I5584:558174;2170:4960;2170:4882",
+                            "name": "outline/arrow-left",
+                            "type": "GROUP",
+                            "depth": 6,
+                            "tailwindClasses": "block w-[12px] h-[10px]",
+                            "children": [
+                              {
+                                "id": "I5584:558174;2170:4960;2170:4883",
+                                "name": "🎨-Icon-Сolor",
+                                "type": "VECTOR",
+                                "depth": 7,
+                                "vectorContent": {},
+                                "tailwindClasses": "w-[12px] h-[10px] bg-[rgb(1 105 55)]"
+                              }
+                            ],
+                            "childrenCount": 1
+                          }
+                        ],
+                        "childrenCount": 1
+                      },
+                      {
+                        "id": "I5584:558174;2170:4392",
+                        "name": "הוספת בעל הרשאה (clone)",
+                        "type": "TEXT",
+                        "depth": 5,
+                        "textContent": {
+                          "characters": "נרשמת בעבר? לחץ/י כאן",
+                          "characterCount": 21,
+                          "fontFamily": null,
+                          "fontWeight": null
+                        },
+                        "text": "נרשמת בעבר? לחץ/י כאן",
+                        "textStyle": {
+                          "fontFamily": "Fedra Sans Bar-ilan",
+                          "fontWeight": 500,
+                          "fontSize": 16,
+                          "letterSpacing": 0,
+                          "textAlignHorizontal": "CENTER",
+                          "textAlignVertical": "CENTER"
+                        },
+                        "tailwindClasses": "w-[163px] h-[24px] bg-[rgb(1 105 55)] text-[rgb(1 105 55)]"
+                      },
+                      {
+                        "id": "I5584:558174;2170:4912",
+                        "name": "16X16 icon (outline)",
+                        "type": "INSTANCE",
+                        "depth": 5,
+                        "visible": false,
+                        "componentId": "5109:4982",
+                        "componentProperties": {
+                          "Property 1": {
+                            "value": "plus",
+                            "type": "VARIANT",
+                            "boundVariables": {}
+                          }
+                        },
+                        "tailwindClasses": "w-[16px] h-[16px]",
+                        "children": [
+                          {
+                            "id": "I5584:558174;2170:4912;2170:4860",
+                            "name": "🎨 Icon plus",
+                            "type": "VECTOR",
+                            "depth": 6,
+                            "vectorContent": {},
+                            "tailwindClasses": "w-[16px] h-[16px] bg-[rgb(1 105 55)] border"
+                          }
+                        ],
+                        "childrenCount": 1
+                      }
+                    ],
+                    "childrenCount": 3
+                  }
+                ],
+                "childrenCount": 1
               },
               {
                 "id": "5584:558175",
                 "name": "ContentBody",
                 "type": "FRAME",
                 "depth": 3,
-                "tailwindClasses": "absolute left-[26572px] top-[-6938px] flex flex-col justify-end gap-8 w-[1000px] h-[591px]"
+                "tailwindClasses": "flex flex-col justify-end gap-8 w-[1000px] h-[591px]",
+                "children": [
+                  {
+                    "id": "5584:558176",
+                    "name": "Cards",
+                    "type": "INSTANCE",
+                    "depth": 4,
+                    "componentId": "5302:348382",
+                    "componentProperties": {
+                      "btn#3153:1": {
+                        "value": false,
+                        "type": "BOOLEAN"
+                      },
+                      "Property 1": {
+                        "value": "Default",
+                        "type": "VARIANT",
+                        "boundVariables": {}
+                      }
+                    },
+                    "tailwindClasses": "flex flex-row gap-8 w-[1000px] h-[217px]",
+                    "children": [
+                      {
+                        "id": "I5584:558176;3153:344250",
+                        "name": "InfoCard/Default",
+                        "type": "INSTANCE",
+                        "depth": 5,
+                        "componentId": "5302:348374",
+                        "componentProperties": {
+                          "btn#3153:0": {
+                            "value": false,
+                            "type": "BOOLEAN"
+                          }
+                        },
+                        "tailwindClasses": "flex flex-col justify-end gap-4 w-[484px] h-[217px] p-8 bg-[rgb(245 250 240)] border border-[rgb(223 227 243)] rounded-2xl shadow-[0px_2px_6px_rgb(0 0 0/0.05999999865889549)]",
+                        "children": [
+                          {
+                            "id": "I5584:558176;3153:344250;3150:747740",
+                            "name": "Frame 1261159234",
+                            "type": "FRAME",
+                            "depth": 6,
+                            "tailwindClasses": "flex flex-row gap-[41px] w-[420px] h-[70px]",
+                            "children": [
+                              {
+                                "id": "I5584:558176;3153:344250;3153:315850",
+                                "name": "Card icons",
+                                "type": "INSTANCE",
+                                "depth": 7,
+                                "componentId": "5279:56734",
+                                "componentProperties": {
+                                  "Property 1": {
+                                    "value": "Clock",
+                                    "type": "VARIANT",
+                                    "boundVariables": {}
+                                  }
+                                },
+                                "tailwindClasses": "w-[68px] h-[68px]",
+                                "children": [
+                                  {
+                                    "id": "I5584:558176;3153:344250;3153:315850;3153:315857",
+                                    "name": "Ellipse 2",
+                                    "type": "ELLIPSE",
+                                    "depth": 8,
+                                    "tailwindClasses": "w-[68px] h-[68px] bg-white shadow-[0px_1px_3px_rgb(0 0 0/0.07999999821186066)]"
+                                  },
+                                  {
+                                    "id": "I5584:558176;3153:344250;3153:315850;3153:315842",
+                                    "name": "mdi-light:clock",
+                                    "type": "FRAME",
+                                    "depth": 8,
+                                    "tailwindClasses": "block w-[53px] h-[53px]",
+                                    "children": [
+                                      {
+                                        "id": "I5584:558176;3153:344250;3153:315850;3153:315843",
+                                        "name": "Vector",
+                                        "type": "VECTOR",
+                                        "depth": 9,
+                                        "vectorContent": {},
+                                        "tailwindClasses": "w-[42px] h-[42px] bg-[rgb(1 105 55)]"
+                                      }
+                                    ],
+                                    "childrenCount": 1
+                                  }
+                                ],
+                                "childrenCount": 2
+                              },
+                              {
+                                "id": "I5584:558176;3153:344250;3150:747750",
+                                "name": "כדאי לדעת",
+                                "type": "TEXT",
+                                "depth": 7,
+                                "textContent": {
+                                  "characters": "כדאי להכין מראש",
+                                  "characterCount": 15,
+                                  "fontFamily": null,
+                                  "fontWeight": null
+                                },
+                                "text": "כדאי להכין מראש",
+                                "textStyle": {
+                                  "fontFamily": "Fedra Sans Bar-ilan",
+                                  "fontWeight": 700,
+                                  "fontSize": 20,
+                                  "letterSpacing": 0,
+                                  "textAlignHorizontal": "RIGHT",
+                                  "textAlignVertical": "CENTER"
+                                },
+                                "tailwindClasses": "w-[311px] h-[70px] bg-black text-black shadow-[0px_1px_3px_rgb(0 0 0/0.07999999821186066)]"
+                              }
+                            ],
+                            "childrenCount": 2
+                          },
+                          {
+                            "id": "I5584:558176;3153:344250;3153:343592",
+                            "name": "Frame 1261159236",
+                            "type": "FRAME",
+                            "depth": 6,
+                            "tailwindClasses": "flex flex-col justify-end gap-6 w-[414px] h-[24px]",
+                            "children": [
+                              {
+                                "id": "I5584:558176;3153:344250;3150:747752",
+                                "name": "יש לוודא שמסלול המכינה הנבחר תואם את התואר האקדמי המבוקש.  מומלץ לקיים פגישת ייעוץ והכוון עם צוות המכינה. ",
+                                "type": "TEXT",
+                                "depth": 7,
+                                "textContent": {
+                                  "characters": "צילום של תעודת הזהות.",
+                                  "characterCount": 21,
+                                  "fontFamily": null,
+                                  "fontWeight": null
+                                },
+                                "text": "צילום של תעודת הזהות.",
+                                "textStyle": {
+                                  "fontFamily": "Fedra Sans Bar-ilan",
+                                  "fontWeight": 400,
+                                  "fontSize": 20,
+                                  "letterSpacing": 0,
+                                  "textAlignHorizontal": "RIGHT",
+                                  "textAlignVertical": "CENTER"
+                                },
+                                "tailwindClasses": "w-[414px] h-[24px] bg-black text-black shadow-[0px_1px_3px_rgb(0 0 0/0.07999999821186066)]"
+                              },
+                              {
+                                "id": "I5584:558176;3153:344250;3153:343471",
+                                "name": "CTA",
+                                "type": "INSTANCE",
+                                "depth": 7,
+                                "visible": false,
+                                "componentId": "5302:348360",
+                                "componentProperties": {
+                                  "Property 1": {
+                                    "value": "default",
+                                    "type": "VARIANT",
+                                    "boundVariables": {}
+                                  }
+                                },
+                                "tailwindClasses": "flex flex-row justify-center items-center w-[205px] h-[48px]",
+                                "children": [
+                                  {
+                                    "id": "I5584:558176;3153:344250;3153:343471;2170:5057",
+                                    "name": "CTA/CONTROL all sizes (dont touch)",
+                                    "type": "FRAME",
+                                    "depth": 8,
+                                    "tailwindClasses": "flex flex-row justify-center items-center gap-2 w-[205px] h-[48px] pt-3 pr-6 pb-3 pl-6 bg-[rgb(1 105 55)] border rounded-lg",
+                                    "children": [
+                                      {
+                                        "id": "I5584:558176;3153:344250;3153:343471;2170:5165",
+                                        "name": "16X16 icon (outline)",
+                                        "type": "INSTANCE",
+                                        "depth": 9,
+                                        "componentId": "5035:127260",
+                                        "componentProperties": {
+                                          "Property 1": {
+                                            "value": "arrow left 2",
+                                            "type": "VARIANT",
+                                            "boundVariables": {}
+                                          }
+                                        },
+                                        "tailwindClasses": "w-[16px] h-[16px]",
+                                        "children": [
+                                          {
+                                            "id": "I5584:558176;3153:344250;3153:343471;2170:5165;2170:4773",
+                                            "name": "Rectangle 1078",
+                                            "type": "VECTOR",
+                                            "depth": 10,
+                                            "vectorContent": {},
+                                            "tailwindClasses": "w-[16px] h-[16px] bg-white border border-[rgb(80 88 98)] opacity-[0%]"
+                                          },
+                                          {
+                                            "id": "I5584:558176;3153:344250;3153:343471;2170:5165;2170:4774",
+                                            "name": "🎨-Icon-Сolor",
+                                            "type": "VECTOR",
+                                            "depth": 10,
+                                            "vectorContent": {},
+                                            "tailwindClasses": "w-[6px] h-[10px] bg-white border"
+                                          }
+                                        ],
+                                        "childrenCount": 2
+                                      },
+                                      {
+                                        "id": "I5584:558176;3153:344250;3153:343471;2170:5059",
+                                        "name": "הוספת בעל הרשאה (clone)",
+                                        "type": "TEXT",
+                                        "depth": 9,
+                                        "textContent": {
+                                          "characters": "לבדיקת סיכויי קבלה",
+                                          "characterCount": 18,
+                                          "fontFamily": null,
+                                          "fontWeight": null
+                                        },
+                                        "text": "לבדיקת סיכויי קבלה",
+                                        "textStyle": {
+                                          "fontFamily": "Fedra Sans Bar-ilan",
+                                          "fontWeight": 500,
+                                          "fontSize": 16,
+                                          "letterSpacing": 0,
+                                          "textAlignHorizontal": "CENTER",
+                                          "textAlignVertical": "CENTER"
+                                        },
+                                        "tailwindClasses": "w-[133px] h-[24px] bg-white text-white"
+                                      },
+                                      {
+                                        "id": "I5584:558176;3153:344250;3153:343471;2170:5253",
+                                        "name": "16X16 icon (outline)",
+                                        "type": "INSTANCE",
+                                        "depth": 9,
+                                        "visible": false,
+                                        "componentId": "5035:127221",
+                                        "componentProperties": {
+                                          "Property 1": {
+                                            "value": "plus",
+                                            "type": "VARIANT",
+                                            "boundVariables": {}
+                                          }
+                                        },
+                                        "tailwindClasses": "w-[16px] h-[16px]",
+                                        "children": [
+                                          {
+                                            "id": "I5584:558176;3153:344250;3153:343471;2170:5253;2170:4860",
+                                            "name": "🎨 Icon plus",
+                                            "type": "VECTOR",
+                                            "depth": 10,
+                                            "vectorContent": {},
+                                            "tailwindClasses": "w-[16px] h-[16px] bg-white border"
+                                          }
+                                        ],
+                                        "childrenCount": 1
+                                      }
+                                    ],
+                                    "childrenCount": 3
+                                  }
+                                ],
+                                "childrenCount": 1
+                              }
+                            ],
+                            "childrenCount": 2
+                          }
+                        ],
+                        "childrenCount": 2
+                      },
+                      {
+                        "id": "I5584:558176;3153:344274",
+                        "name": "InfoCard/Default",
+                        "type": "INSTANCE",
+                        "depth": 5,
+                        "componentId": "5302:348374",
+                        "componentProperties": {
+                          "btn#3153:0": {
+                            "value": false,
+                            "type": "BOOLEAN"
+                          }
+                        },
+                        "tailwindClasses": "flex flex-col justify-end gap-4 w-[484px] h-[217px] p-8 bg-[rgb(245 250 240)] border border-[rgb(223 227 243)] rounded-2xl shadow-[0px_2px_6px_rgb(0 0 0/0.05999999865889549)]",
+                        "children": [
+                          {
+                            "id": "I5584:558176;3153:344274;3150:747740",
+                            "name": "Frame 1261159234",
+                            "type": "FRAME",
+                            "depth": 6,
+                            "tailwindClasses": "flex flex-row gap-[41px] w-[420px] h-[70px]",
+                            "children": [
+                              {
+                                "id": "I5584:558176;3153:344274;3153:315850",
+                                "name": "Card icons",
+                                "type": "INSTANCE",
+                                "depth": 7,
+                                "componentId": "5279:56728",
+                                "componentProperties": {
+                                  "Property 1": {
+                                    "value": "check",
+                                    "type": "VARIANT",
+                                    "boundVariables": {}
+                                  }
+                                },
+                                "tailwindClasses": "w-[68px] h-[68px]",
+                                "children": [
+                                  {
+                                    "id": "I5584:558176;3153:344274;3153:315850;3153:315791",
+                                    "name": "Ellipse 2",
+                                    "type": "ELLIPSE",
+                                    "depth": 8,
+                                    "tailwindClasses": "w-[68px] h-[68px] bg-white shadow-[0px_1px_3px_rgb(0 0 0/0.07999999821186066)]"
+                                  },
+                                  {
+                                    "id": "I5584:558176;3153:344274;3153:315850;3153:315798",
+                                    "name": "Frame 1261159235",
+                                    "type": "FRAME",
+                                    "depth": 8,
+                                    "tailwindClasses": "block w-[42px] h-[42px]",
+                                    "children": [
+                                      {
+                                        "id": "I5584:558176;3153:344274;3153:315850;3153:315799",
+                                        "name": "Ellipse 1",
+                                        "type": "ELLIPSE",
+                                        "depth": 9,
+                                        "tailwindClasses": "w-[42px] h-[42px] border-[1.7500001192092896px] border-[rgb(1 105 55)]"
+                                      },
+                                      {
+                                        "id": "I5584:558176;3153:344274;3153:315850;3153:315800",
+                                        "name": "iconamoon:check-bold",
+                                        "type": "FRAME",
+                                        "depth": 9,
+                                        "tailwindClasses": "block w-[21px] h-[21px]",
+                                        "children": [
+                                          {
+                                            "id": "I5584:558176;3153:344274;3153:315850;3153:315801",
+                                            "name": "Vector",
+                                            "type": "VECTOR",
+                                            "depth": 10,
+                                            "vectorContent": {},
+                                            "tailwindClasses": "w-[13px] h-[9px] border-[2.187500238418579px] border-[rgb(1 105 55)]"
+                                          }
+                                        ],
+                                        "childrenCount": 1
+                                      }
+                                    ],
+                                    "childrenCount": 2
+                                  }
+                                ],
+                                "childrenCount": 2
+                              },
+                              {
+                                "id": "I5584:558176;3153:344274;3150:747750",
+                                "name": "כדאי לדעת",
+                                "type": "TEXT",
+                                "depth": 7,
+                                "textContent": {
+                                  "characters": "כדאי לדעת",
+                                  "characterCount": 9,
+                                  "fontFamily": null,
+                                  "fontWeight": null
+                                },
+                                "text": "כדאי לדעת",
+                                "textStyle": {
+                                  "fontFamily": "Fedra Sans Bar-ilan",
+                                  "fontWeight": 700,
+                                  "fontSize": 20,
+                                  "letterSpacing": 0,
+                                  "textAlignHorizontal": "RIGHT",
+                                  "textAlignVertical": "CENTER"
+                                },
+                                "tailwindClasses": "w-[311px] h-[70px] bg-black text-black shadow-[0px_1px_3px_rgb(0 0 0/0.07999999821186066)]"
+                              }
+                            ],
+                            "childrenCount": 2
+                          },
+                          {
+                            "id": "I5584:558176;3153:344274;3153:343592",
+                            "name": "Frame 1261159236",
+                            "type": "FRAME",
+                            "depth": 6,
+                            "tailwindClasses": "flex flex-col justify-end gap-6 w-[414px] h-[48px]",
+                            "children": [
+                              {
+                                "id": "I5584:558176;3153:344274;3150:747752",
+                                "name": "יש לוודא שמסלול המכינה הנבחר תואם את התואר האקדמי המבוקש.  מומלץ לקיים פגישת ייעוץ והכוון עם צוות המכינה. ",
+                                "type": "TEXT",
+                                "depth": 7,
+                                "textContent": {
+                                  "characters": "במקרה של ביטול רישום – ניתן לקבל החזר מלא של דמי הרישום, אם הביטול נעשה תוך 24 שעות.",
+                                  "characterCount": 84,
+                                  "fontFamily": null,
+                                  "fontWeight": null
+                                },
+                                "text": "במקרה של ביטול רישום – ניתן לקבל החזר מלא של דמי הרישום, אם הביטול נעשה תוך 24 שעות.",
+                                "textStyle": {
+                                  "fontFamily": "Fedra Sans Bar-ilan",
+                                  "fontWeight": 400,
+                                  "fontSize": 20,
+                                  "letterSpacing": 0,
+                                  "textAlignHorizontal": "RIGHT",
+                                  "textAlignVertical": "CENTER"
+                                },
+                                "tailwindClasses": "w-[414px] h-[48px] bg-black text-black shadow-[0px_1px_3px_rgb(0 0 0/0.07999999821186066)]"
+                              },
+                              {
+                                "id": "I5584:558176;3153:344274;3153:343471",
+                                "name": "CTA",
+                                "type": "INSTANCE",
+                                "depth": 7,
+                                "visible": false,
+                                "componentId": "5302:348360",
+                                "componentProperties": {
+                                  "Property 1": {
+                                    "value": "default",
+                                    "type": "VARIANT",
+                                    "boundVariables": {}
+                                  }
+                                },
+                                "tailwindClasses": "flex flex-row justify-center items-center w-[205px] h-[48px]",
+                                "children": [
+                                  {
+                                    "id": "I5584:558176;3153:344274;3153:343471;2170:5057",
+                                    "name": "CTA/CONTROL all sizes (dont touch)",
+                                    "type": "FRAME",
+                                    "depth": 8,
+                                    "tailwindClasses": "flex flex-row justify-center items-center gap-2 w-[205px] h-[48px] pt-3 pr-6 pb-3 pl-6 bg-[rgb(1 105 55)] border rounded-lg",
+                                    "children": [
+                                      {
+                                        "id": "I5584:558176;3153:344274;3153:343471;2170:5165",
+                                        "name": "16X16 icon (outline)",
+                                        "type": "INSTANCE",
+                                        "depth": 9,
+                                        "componentId": "5035:127260",
+                                        "componentProperties": {
+                                          "Property 1": {
+                                            "value": "arrow left 2",
+                                            "type": "VARIANT",
+                                            "boundVariables": {}
+                                          }
+                                        },
+                                        "tailwindClasses": "w-[16px] h-[16px]",
+                                        "children": [
+                                          {
+                                            "id": "I5584:558176;3153:344274;3153:343471;2170:5165;2170:4773",
+                                            "name": "Rectangle 1078",
+                                            "type": "VECTOR",
+                                            "depth": 10,
+                                            "vectorContent": {},
+                                            "tailwindClasses": "w-[16px] h-[16px] bg-white border border-[rgb(80 88 98)] opacity-[0%]"
+                                          },
+                                          {
+                                            "id": "I5584:558176;3153:344274;3153:343471;2170:5165;2170:4774",
+                                            "name": "🎨-Icon-Сolor",
+                                            "type": "VECTOR",
+                                            "depth": 10,
+                                            "vectorContent": {},
+                                            "tailwindClasses": "w-[6px] h-[10px] bg-white border"
+                                          }
+                                        ],
+                                        "childrenCount": 2
+                                      },
+                                      {
+                                        "id": "I5584:558176;3153:344274;3153:343471;2170:5059",
+                                        "name": "הוספת בעל הרשאה (clone)",
+                                        "type": "TEXT",
+                                        "depth": 9,
+                                        "textContent": {
+                                          "characters": "לבדיקת סיכויי קבלה",
+                                          "characterCount": 18,
+                                          "fontFamily": null,
+                                          "fontWeight": null
+                                        },
+                                        "text": "לבדיקת סיכויי קבלה",
+                                        "textStyle": {
+                                          "fontFamily": "Fedra Sans Bar-ilan",
+                                          "fontWeight": 500,
+                                          "fontSize": 16,
+                                          "letterSpacing": 0,
+                                          "textAlignHorizontal": "CENTER",
+                                          "textAlignVertical": "CENTER"
+                                        },
+                                        "tailwindClasses": "w-[133px] h-[24px] bg-white text-white"
+                                      },
+                                      {
+                                        "id": "I5584:558176;3153:344274;3153:343471;2170:5253",
+                                        "name": "16X16 icon (outline)",
+                                        "type": "INSTANCE",
+                                        "depth": 9,
+                                        "visible": false,
+                                        "componentId": "5035:127221",
+                                        "componentProperties": {
+                                          "Property 1": {
+                                            "value": "plus",
+                                            "type": "VARIANT",
+                                            "boundVariables": {}
+                                          }
+                                        },
+                                        "tailwindClasses": "w-[16px] h-[16px]",
+                                        "children": [
+                                          {
+                                            "id": "I5584:558176;3153:344274;3153:343471;2170:5253;2170:4860",
+                                            "name": "🎨 Icon plus",
+                                            "type": "VECTOR",
+                                            "depth": 10,
+                                            "vectorContent": {},
+                                            "tailwindClasses": "w-[16px] h-[16px] bg-white border"
+                                          }
+                                        ],
+                                        "childrenCount": 1
+                                      }
+                                    ],
+                                    "childrenCount": 3
+                                  }
+                                ],
+                                "childrenCount": 1
+                              }
+                            ],
+                            "childrenCount": 2
+                          }
+                        ],
+                        "childrenCount": 2
+                      }
+                    ],
+                    "childrenCount": 2
+                  },
+                  {
+                    "id": "5584:558177",
+                    "name": "Language",
+                    "type": "FRAME",
+                    "depth": 4,
+                    "tailwindClasses": "flex flex-col justify-center gap-[40px] w-[1000px] h-[342px]",
+                    "children": [
+                      {
+                        "id": "5584:558178",
+                        "name": "question and button",
+                        "type": "FRAME",
+                        "depth": 5,
+                        "tailwindClasses": "flex flex-col justify-center gap-[80px] w-[669px] h-[342px]",
+                        "children": [
+                          {
+                            "id": "5584:558179",
+                            "name": "LanguageContainer",
+                            "type": "FRAME",
+                            "depth": 6,
+                            "tailwindClasses": "flex flex-col gap-4 w-[669px] h-[162px]",
+                            "children": [
+                              {
+                                "id": "5584:558180",
+                                "name": "q title",
+                                "type": "FRAME",
+                                "depth": 7,
+                                "tailwindClasses": "block w-[669px] h-[26px]",
+                                "children": [
+                                  {
+                                    "id": "5584:558181",
+                                    "name": "באיזו שפה נוח לך?",
+                                    "type": "TEXT",
+                                    "depth": 8,
+                                    "textContent": {
+                                      "characters": "באיזו שפה נוח לך?",
+                                      "characterCount": 17,
+                                      "fontFamily": null,
+                                      "fontWeight": null
+                                    },
+                                    "text": "באיזו שפה נוח לך?",
+                                    "textStyle": {
+                                      "fontFamily": "Fedra Sans Bar-ilan",
+                                      "fontWeight": 400,
+                                      "fontSize": 16,
+                                      "letterSpacing": 0,
+                                      "textAlignHorizontal": "CENTER",
+                                      "textAlignVertical": "CENTER"
+                                    },
+                                    "tailwindClasses": "w-[669px] h-[26px] bg-black text-black"
+                                  }
+                                ],
+                                "childrenCount": 1
+                              },
+                              {
+                                "id": "5584:558182",
+                                "name": "Row",
+                                "type": "FRAME",
+                                "depth": 7,
+                                "tailwindClasses": "flex flex-row justify-center items-center gap-8 w-[669px] h-[120px]",
+                                "children": [
+                                  {
+                                    "id": "5584:558183",
+                                    "name": "selection",
+                                    "type": "INSTANCE",
+                                    "depth": 8,
+                                    "componentId": "5435:266415",
+                                    "componentProperties": {
+                                      "Property 1": {
+                                        "value": "Primary-he",
+                                        "type": "VARIANT",
+                                        "boundVariables": {}
+                                      }
+                                    },
+                                    "tailwindClasses": "flex flex-col gap-6 w-[300px] h-[120px]",
+                                    "children": [
+                                      {
+                                        "id": "I5584:558183;2094:14493",
+                                        "name": "selection/btn",
+                                        "type": "INSTANCE",
+                                        "depth": 9,
+                                        "componentId": "5435:266411",
+                                        "tailwindClasses": "flex flex-row justify-center items-center gap-6 w-[300px] h-[120px] pt-4 pr-8 pb-4 pl-8 bg-white rounded-3xl shadow-[0px_2px_6px_rgb(0 0 0/0.05999999865889549)]",
+                                        "children": [
+                                          {
+                                            "id": "I5584:558183;2094:14493;2063:20",
+                                            "name": "Text",
+                                            "type": "TEXT",
+                                            "depth": 10,
+                                            "textContent": {
+                                              "characters": "EN",
+                                              "characterCount": 2,
+                                              "fontFamily": null,
+                                              "fontWeight": null
+                                            },
+                                            "text": "EN",
+                                            "textStyle": {
+                                              "fontFamily": "Fedra Sans Bar-ilan",
+                                              "fontWeight": 400,
+                                              "fontSize": 20,
+                                              "letterSpacing": 0,
+                                              "textAlignHorizontal": "CENTER",
+                                              "textAlignVertical": "CENTER"
+                                            },
+                                            "tailwindClasses": "w-[124px] h-[24px] bg-[rgb(0 40 15)] text-[rgb(0 40 15)]"
+                                          },
+                                          {
+                                            "id": "I5584:558183;2094:14493;2063:80",
+                                            "name": "icon",
+                                            "type": "INSTANCE",
+                                            "depth": 10,
+                                            "componentId": "5435:246610",
+                                            "componentProperties": {
+                                              "Property 1": {
+                                                "value": "EN",
+                                                "type": "VARIANT",
+                                                "boundVariables": {}
+                                              }
+                                            },
+                                            "tailwindClasses": "w-[88px] h-[88px] rounded-[60px]"
+                                          }
+                                        ],
+                                        "childrenCount": 2
+                                      }
+                                    ],
+                                    "childrenCount": 1
+                                  },
+                                  {
+                                    "id": "5584:558184",
+                                    "name": "selection",
+                                    "type": "INSTANCE",
+                                    "depth": 8,
+                                    "componentId": "5435:266415",
+                                    "componentProperties": {
+                                      "Property 1": {
+                                        "value": "Primary-he",
+                                        "type": "VARIANT",
+                                        "boundVariables": {}
+                                      }
+                                    },
+                                    "tailwindClasses": "flex flex-col gap-6 w-[300px] h-[120px]",
+                                    "children": [
+                                      {
+                                        "id": "I5584:558184;2094:14493",
+                                        "name": "selection/btn",
+                                        "type": "INSTANCE",
+                                        "depth": 9,
+                                        "componentId": "5435:266411",
+                                        "tailwindClasses": "flex flex-row justify-center items-center gap-6 w-[300px] h-[120px] pt-4 pr-8 pb-4 pl-8 bg-white rounded-3xl shadow-[0px_2px_6px_rgb(0 0 0/0.05999999865889549)]",
+                                        "children": [
+                                          {
+                                            "id": "I5584:558184;2094:14493;2063:20",
+                                            "name": "Text",
+                                            "type": "TEXT",
+                                            "depth": 10,
+                                            "textContent": {
+                                              "characters": "עברית",
+                                              "characterCount": 5,
+                                              "fontFamily": null,
+                                              "fontWeight": null
+                                            },
+                                            "text": "עברית",
+                                            "textStyle": {
+                                              "fontFamily": "Fedra Sans Bar-ilan",
+                                              "fontWeight": 400,
+                                              "fontSize": 20,
+                                              "letterSpacing": 0,
+                                              "textAlignHorizontal": "CENTER",
+                                              "textAlignVertical": "CENTER"
+                                            },
+                                            "tailwindClasses": "w-[124px] h-[24px] bg-[rgb(0 40 15)] text-[rgb(0 40 15)]"
+                                          },
+                                          {
+                                            "id": "I5584:558184;2094:14493;2063:80",
+                                            "name": "icon",
+                                            "type": "INSTANCE",
+                                            "depth": 10,
+                                            "componentId": "5435:246609",
+                                            "componentProperties": {
+                                              "Property 1": {
+                                                "value": "HE",
+                                                "type": "VARIANT",
+                                                "boundVariables": {}
+                                              }
+                                            },
+                                            "tailwindClasses": "w-[88px] h-[88px] rounded-[60px]"
+                                          }
+                                        ],
+                                        "childrenCount": 2
+                                      }
+                                    ],
+                                    "childrenCount": 1
+                                  }
+                                ],
+                                "childrenCount": 2
+                              }
+                            ],
+                            "childrenCount": 2
+                          },
+                          {
+                            "id": "5584:558186",
+                            "name": "Buttons/CTA/Primary",
+                            "type": "INSTANCE",
+                            "depth": 6,
+                            "componentId": "5476:1151433",
+                            "componentProperties": {
+                              "Text#2871:21": {
+                                "value": "שנכיר",
+                                "type": "TEXT"
+                              },
+                              "Property 1": {
+                                "value": "Default",
+                                "type": "VARIANT",
+                                "boundVariables": {}
+                              }
+                            },
+                            "tailwindClasses": "flex flex-row justify-center items-center gap-2.5 w-[120px] h-[52px] pt-4 pr-6 pb-4 pl-6 bg-[rgb(1 105 55)]",
+                            "children": [
+                              {
+                                "id": "I5584:558186;2408:28957",
+                                "name": "אני רוצה להירשם!",
+                                "type": "TEXT",
+                                "depth": 7,
+                                "textContent": {
+                                  "characters": "שנכיר",
+                                  "characterCount": 5,
+                                  "fontFamily": null,
+                                  "fontWeight": null
+                                },
+                                "text": "שנכיר",
+                                "textStyle": {
+                                  "fontFamily": "Fedra Sans Bar-ilan",
+                                  "fontWeight": 500,
+                                  "fontSize": 20,
+                                  "letterSpacing": 0,
+                                  "textAlignHorizontal": "RIGHT",
+                                  "textAlignVertical": "CENTER"
+                                },
+                                "tailwindClasses": "w-[50px] h-[20px] bg-white text-white"
+                              }
+                            ],
+                            "childrenCount": 1
+                          }
+                        ],
+                        "childrenCount": 2
+                      }
+                    ],
+                    "childrenCount": 1
+                  }
+                ],
+                "childrenCount": 2
               }
             ],
             "childrenCount": 3
@@ -149,14 +1378,21 @@
         "name": "placeholder image",
         "type": "INSTANCE",
         "depth": 1,
-        "tailwindClasses": "absolute left-[25721px] top-[-7349px] w-[703px] h-[1034px]",
+        "componentId": "5279:48965",
+        "tailwindClasses": "w-[703px] h-[1034px]",
         "children": [
           {
             "id": "I5584:558187;3051:1349525",
             "name": "Rectangle 16918",
             "type": "RECTANGLE",
             "depth": 2,
-            "tailwindClasses": "absolute left-[25721px] top-[-7349px] w-[703px] h-[1034px]"
+            "imageContent": {
+              "type": "IMAGE_FILL",
+              "imageRef": "002b232d03afad35f5e3eb7a8cac85600919eaff",
+              "scaleMode": "FILL"
+            },
+            "tailwindClasses": "w-[703px] h-[1034px]",
+            "imageUrl": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/14d23261-38ed-4049-a97c-bbf89e7e5276"
           }
         ],
         "childrenCount": 1
@@ -164,5 +1400,182 @@
     ],
     "childrenCount": 4
   },
-  "extractedAt": "2025-09-12T22:42:43.264Z"
+  "extractedAt": "2025-09-12T23:22:09.967Z",
+  "componentAnalysis": {
+    "instanceCount": 34,
+    "componentCount": 0,
+    "components": [],
+    "instances": [
+      {
+        "id": "5584:558166",
+        "name": "header/Logo only",
+        "componentId": "5473:426129"
+      },
+      {
+        "id": "I5584:558166;3267:776524",
+        "name": "Logo",
+        "componentId": "5473:426119"
+      },
+      {
+        "id": "5584:558167",
+        "name": "ActionsMenu",
+        "componentId": "5476:1198361"
+      },
+      {
+        "id": "I5584:558167;2784:88344",
+        "name": "Buttons/CTA/Link",
+        "componentId": "5252:183522"
+      },
+      {
+        "id": "I5584:558167;2784:88344;2655:319294",
+        "name": "Icons",
+        "componentId": "5028:259220"
+      },
+      {
+        "id": "I5584:558167;2784:88340",
+        "name": "Buttons/CTA/Link",
+        "componentId": "5252:183522"
+      },
+      {
+        "id": "I5584:558167;2784:88340;2655:319294",
+        "name": "Icons",
+        "componentId": "5028:258767"
+      },
+      {
+        "id": "I5584:558167;2784:88333",
+        "name": "Buttons/CTA/Link",
+        "componentId": "5252:183522"
+      },
+      {
+        "id": "I5584:558167;2784:88333;2655:319294",
+        "name": "Icons",
+        "componentId": "5028:258779"
+      },
+      {
+        "id": "I5584:558167;3275:641751",
+        "name": "Buttons/CTA/Link",
+        "componentId": "5252:183522"
+      },
+      {
+        "id": "I5584:558167;3275:641751;2655:319294",
+        "name": "Icons",
+        "componentId": "5028:258779"
+      },
+      {
+        "id": "I5584:558167;2784:88380",
+        "name": "arrow-right",
+        "componentId": "5476:858"
+      },
+      {
+        "id": "5584:558174",
+        "name": "CTA",
+        "componentId": "5109:14377"
+      },
+      {
+        "id": "I5584:558174;2170:4960",
+        "name": "16X16 icon (outline)",
+        "componentId": "5109:4989"
+      },
+      {
+        "id": "I5584:558174;2170:4912",
+        "name": "16X16 icon (outline)",
+        "componentId": "5109:4982"
+      },
+      {
+        "id": "5584:558176",
+        "name": "Cards",
+        "componentId": "5302:348382"
+      },
+      {
+        "id": "I5584:558176;3153:344250",
+        "name": "InfoCard/Default",
+        "componentId": "5302:348374"
+      },
+      {
+        "id": "I5584:558176;3153:344250;3153:315850",
+        "name": "Card icons",
+        "componentId": "5279:56734"
+      },
+      {
+        "id": "I5584:558176;3153:344250;3153:343471",
+        "name": "CTA",
+        "componentId": "5302:348360"
+      },
+      {
+        "id": "I5584:558176;3153:344250;3153:343471;2170:5165",
+        "name": "16X16 icon (outline)",
+        "componentId": "5035:127260"
+      },
+      {
+        "id": "I5584:558176;3153:344250;3153:343471;2170:5253",
+        "name": "16X16 icon (outline)",
+        "componentId": "5035:127221"
+      },
+      {
+        "id": "I5584:558176;3153:344274",
+        "name": "InfoCard/Default",
+        "componentId": "5302:348374"
+      },
+      {
+        "id": "I5584:558176;3153:344274;3153:315850",
+        "name": "Card icons",
+        "componentId": "5279:56728"
+      },
+      {
+        "id": "I5584:558176;3153:344274;3153:343471",
+        "name": "CTA",
+        "componentId": "5302:348360"
+      },
+      {
+        "id": "I5584:558176;3153:344274;3153:343471;2170:5165",
+        "name": "16X16 icon (outline)",
+        "componentId": "5035:127260"
+      },
+      {
+        "id": "I5584:558176;3153:344274;3153:343471;2170:5253",
+        "name": "16X16 icon (outline)",
+        "componentId": "5035:127221"
+      },
+      {
+        "id": "5584:558183",
+        "name": "selection",
+        "componentId": "5435:266415"
+      },
+      {
+        "id": "I5584:558183;2094:14493",
+        "name": "selection/btn",
+        "componentId": "5435:266411"
+      },
+      {
+        "id": "I5584:558183;2094:14493;2063:80",
+        "name": "icon",
+        "componentId": "5435:246610"
+      },
+      {
+        "id": "5584:558184",
+        "name": "selection",
+        "componentId": "5435:266415"
+      },
+      {
+        "id": "I5584:558184;2094:14493",
+        "name": "selection/btn",
+        "componentId": "5435:266411"
+      },
+      {
+        "id": "I5584:558184;2094:14493;2063:80",
+        "name": "icon",
+        "componentId": "5435:246609"
+      },
+      {
+        "id": "5584:558186",
+        "name": "Buttons/CTA/Primary",
+        "componentId": "5476:1151433"
+      },
+      {
+        "id": "5584:558187",
+        "name": "placeholder image",
+        "componentId": "5279:48965"
+      }
+    ]
+  }
 }
