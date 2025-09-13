@@ -1,0 +1,208 @@
+{
+  "missingInformation": {
+    "overview": "Additional data needed to complete web development from Figma design",
+    "extractedAt": "2025-09-13T00:00:00.000Z",
+    "status": "Required for production-ready implementation"
+  },
+  
+  "interactionStates": {
+    "description": "Interactive element states for user interactions",
+    "missing": {
+      "hoverStates": {
+        "buttons": "Hover background color, shadow, transform effects",
+        "links": "Hover underline, color changes",
+        "cards": "Hover elevation, scale effects",
+        "implementation": "CSS :hover pseudo-classes"
+      },
+      "focusStates": {
+        "allInteractives": "Focus rings, outline styles, keyboard navigation indicators",
+        "accessibility": "WCAG-compliant focus indicators",
+        "implementation": "CSS :focus, :focus-visible pseudo-classes"
+      },
+      "activeStates": {
+        "buttons": "Button press/click visual feedback",
+        "implementation": "CSS :active pseudo-class, transform: scale(0.98)"
+      },
+      "disabledStates": {
+        "forms": "Disabled input styling, opacity, cursor changes",
+        "buttons": "Disabled button appearance",
+        "implementation": "CSS :disabled pseudo-class"
+      }
+    },
+    "solution": "Create component variants in Figma for each state or define in CSS"
+  },
+  
+  "responsiveDesign": {
+    "description": "Multi-device layout adaptations",
+    "missing": {
+      "breakpoints": {
+        "mobile": "320px - 768px layouts",
+        "tablet": "768px - 1024px layouts", 
+        "desktop": "1024px+ layouts",
+        "implementation": "Tailwind responsive prefixes (sm:, md:, lg:, xl:)"
+      },
+      "fluidLayouts": {
+        "containerSizing": "Max-width constraints, fluid scaling",
+        "textScaling": "Responsive typography scales",
+        "spacingScales": "Responsive spacing adjustments"
+      },
+      "autoLayout": {
+        "flexWrap": "How elements wrap on smaller screens",
+        "orderChanges": "Content reordering for mobile",
+        "hideShow": "Elements hidden on certain breakpoints"
+      }
+    },
+    "solution": "Create responsive frames in Figma or define responsive CSS rules"
+  },
+  
+  "designTokens": {
+    "description": "Design system variables for consistent styling",
+    "missing": {
+      "colorSystem": {
+        "semanticColors": "primary, secondary, success, warning, error colors",
+        "neutrals": "Gray scale with proper contrast ratios",
+        "themes": "Light/dark mode color variations"
+      },
+      "spacing": {
+        "scaleSystem": "Consistent spacing scale (4px, 8px, 16px, 24px, 32px, etc.)",
+        "componentSpacing": "Internal spacing for components"
+      },
+      "typography": {
+        "fontScale": "Responsive font size scale",
+        "lineHeights": "Optimal line heights for each font size",
+        "fontWeights": "Semantic font weight naming"
+      },
+      "effects": {
+        "shadows": "Elevation system with consistent shadows",
+        "animations": "Transition durations, easing functions"
+      }
+    },
+    "solution": "Use Figma variables or create CSS custom properties"
+  },
+  
+  "componentVariants": {
+    "description": "All possible component states and variations",
+    "missing": {
+      "buttonVariants": {
+        "sizes": "small, medium, large button sizes",
+        "types": "primary, secondary, ghost, danger buttons",
+        "states": "default, hover, active, focus, disabled, loading"
+      },
+      "formElements": {
+        "inputStates": "empty, filled, error, focus, disabled",
+        "validation": "Error states, success states, helper text"
+      },
+      "cardVariants": {
+        "layouts": "Different card layouts and content arrangements",
+        "interactive": "Clickable vs static card states"
+      }
+    },
+    "solution": "Create component sets in Figma with boolean/variant properties"
+  },
+  
+  "accessibilityInformation": {
+    "description": "Data needed for screen readers and keyboard navigation",
+    "missing": {
+      "semanticStructure": {
+        "headingLevels": "Proper H1, H2, H3 hierarchy",
+        "landmarks": "Main, nav, aside, footer regions",
+        "listStructure": "Proper ul/ol markup for lists"
+      },
+      "altText": {
+        "images": "Descriptive alt text for all images",
+        "decorativeImages": "Images that should have empty alt attributes",
+        "iconDescriptions": "Screen reader text for icons"
+      },
+      "ariaLabels": {
+        "buttons": "Descriptive button labels",
+        "forms": "Form field labels and descriptions",
+        "navigation": "Navigation landmarks and labels"
+      },
+      "keyboardNavigation": {
+        "tabOrder": "Logical tab sequence",
+        "skipLinks": "Skip to main content links",
+        "keyboardShortcuts": "Custom keyboard interactions"
+      }
+    },
+    "solution": "Add accessibility annotations in Figma or define in development"
+  },
+  
+  "animations": {
+    "description": "Motion design and micro-interactions",
+    "missing": {
+      "pageTransitions": {
+        "routeChanges": "Page-to-page transition effects",
+        "modalAnimations": "Modal open/close animations"
+      },
+      "microInteractions": {
+        "buttonFeedback": "Button press animations",
+        "loadingStates": "Loading spinners, skeleton screens",
+        "formFeedback": "Form validation animations"
+      },
+      "scrollAnimations": {
+        "parallax": "Background image movement",
+        "fadeIn": "Elements appearing on scroll",
+        "stickyHeaders": "Navigation behavior on scroll"
+      }
+    },
+    "solution": "Use Figma prototyping or define CSS animations/JavaScript"
+  },
+  
+  "technicalImplementation": {
+    "description": "Development-specific requirements",
+    "missing": {
+      "componentStructure": {
+        "reactComponents": "Reusable component architecture",
+        "propDefinitions": "Component prop interfaces",
+        "stateManagement": "Interactive component state"
+      },
+      "performanceOptimization": {
+        "imageOptimization": "WebP formats, lazy loading, responsive images",
+        "codesplitting": "Component lazy loading",
+        "bundleOptimization": "CSS purging, tree shaking"
+      },
+      "seoRequirements": {
+        "metaTags": "Page titles, descriptions, Open Graph tags",
+        "structuredData": "Schema markup for rich snippets",
+        "sitemapData": "Page hierarchy and navigation"
+      }
+    },
+    "solution": "Define during development phase with proper tooling"
+  },
+  
+  "recommendedSolutions": {
+    "immediate": [
+      "Create hover states for all interactive elements in Figma",
+      "Define mobile layouts for key pages",
+      "Add alt text annotations to all images",
+      "Create a basic design token system"
+    ],
+    "shortTerm": [
+      "Set up Figma variables for colors, spacing, and typography",
+      "Create component variants for all button and form states",
+      "Define responsive breakpoints and layouts",
+      "Add accessibility annotations"
+    ],
+    "longTerm": [
+      "Implement full design system with proper documentation",
+      "Create animation and interaction prototypes",
+      "Set up automated design token sync with code",
+      "Establish design-development handoff process"
+    ]
+  },
+  
+  "toolingRecommendations": {
+    "figmaPlugins": [
+      "Design Tokens - for token management",
+      "Figma to React - for component generation", 
+      "A11y - Accessibility annotations",
+      "Responsify - Responsive design testing"
+    ],
+    "developmentTools": [
+      "Tailwind CSS - for consistent utility classes",
+      "Headless UI - for accessible component primitives",
+      "Framer Motion - for animations",
+      "Next.js Image - for optimized images"
+    ]
+  }
+}
